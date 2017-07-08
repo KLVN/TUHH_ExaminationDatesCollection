@@ -1,0 +1,4466 @@
+{
+    "0": {
+        "Fach": "Abfall und Boden (Modul)/Abfall, Biologie und Boden/Abfallressourcenwirtschaft",
+        "Tag": "08.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "11:30"
+    },
+    "1": {
+        "Fach": "Abfallbehandlung und Feststoffverfahrenstechnik (Modul)/Feststoffverfahrenstechnik f\u00fcr Biomassen/Thermische Abfallbehandlung",
+        "Tag": "04.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "2": {
+        "Fach": "Abfallbehandlungstechnologien (Modul)/Abfall- und Umweltchemie/Biologische Abfallbehandlung",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "3": {
+        "Fach": "Abfallressourcenwirtschaft",
+        "Tag": "08.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "11:30"
+    },
+    "4": {
+        "Fach": "Abwasseranalytik und -reinigung (Modul)/Kosteneffiziente Methoden der Wasser- und Abwasseranalytik/Nichtbiologische Reinigungsverfahren",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "5": {
+        "Fach": "Abwasserreinigung und Luftreinhaltung (Modul)/Biologische Abwasserreinigung/Technologie der Luftreinhaltung",
+        "Tag": "01.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "14:00"
+    },
+    "6": {
+        "Fach": "Abwassersysteme (Modul)/Abwassersysteme-Erfassung, Behandlung und Wiederverwendung/Physikalische und chemische Abwasserbehandlung",
+        "Tag": "15.08.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "09:00"
+    },
+    "7": {
+        "Fach": "Abwassersysteme und Wiederverwendung (Modul)/Abwassersysteme-Erfassung, Behandlung und Wiederverwendung/Nachhaltiges Wassermanagement",
+        "Tag": "15.08.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "09:00"
+    },
+    "8": {
+        "Fach": "Aerobe und anaerobe Abfallbehandlung",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "9": {
+        "Fach": "Aerodynamik und Flugmechanik I (Modul)",
+        "Tag": "08.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "14:00"
+    },
+    "10": {
+        "Fach": "Aktuelle Entwicklungen der technischen Biochemie",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "11": {
+        "Fach": "Algebraische Geometrie und Statistik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung=ehemals Algebraische Methoden",
+        "Zeit": ""
+    },
+    "12": {
+        "Fach": "Algebraische Methoden in Informations- und Kommunikationstechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "13": {
+        "Fach": "Algebraische Statistik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "14": {
+        "Fach": "Algebraische Statistik f\u00fcr computerorientierte Biologie (Modul)/Algebraische Statistik f\u00fcr computergest\u00fctzte Biologie",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "15": {
+        "Fach": "Algorithmen in Algebra und Analysis",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "16": {
+        "Fach": "Algorithmische Algebra (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "17": {
+        "Fach": "Allgemeine Messtechnik und Sensorik I",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "18": {
+        "Fach": "Allgemeine Messtechnik und Sensorik II",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "19": {
+        "Fach": "Allgemeine Messtechnik und Sensorik II / Optoelektronische Messsysteme",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "20": {
+        "Fach": "Allgemeine und Anorganische Chemie (Modul)",
+        "Tag": "21.08.2017",
+        "Ort/Raum": "UniHH, Bundesstr. 45, 20146 Hamburg, H\u00f6rsaal TMC= ehemals Chemie I (Prof. Luinstra)",
+        "Zeit": "10:00"
+    },
+    "21": {
+        "Fach": "Altlasten und Deponierung",
+        "Tag": "31.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "14:00"
+    },
+    "22": {
+        "Fach": "Analyse meerestechnischer Systeme",
+        "Tag": "16.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "23": {
+        "Fach": "Analysis f\u00fcr TechnomathematikerAnalysis I f\u00fcr Technomathematiker (Modul) (WiSe)/Analysis II f\u00fcr Technomathematiker (SoSe)",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506Planung durch den Pr\u00fcfer",
+        "Zeit": "10:00"
+    },
+    "24": {
+        "Fach": "Angewandte Automatisierung",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "25": {
+        "Fach": "Angewandte Computermethoden in der Werkstoffwissenschaft",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "26": {
+        "Fach": "Angewandte Grundwassermodellierung",
+        "Tag": "01.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "27": {
+        "Fach": "Angewandte Logik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "28": {
+        "Fach": "Angewandte Oberfl\u00e4chenhydrologie",
+        "Tag": "18.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "29": {
+        "Fach": "Angewandte Statistik f\u00fcr Ingenieure (Modul)",
+        "Tag": "31.08.2017",
+        "Ort/Raum": "TUHH, DE15 (Geb. K), Raum K3.502Planung durch den Pr\u00fcfer",
+        "Zeit": "10:00"
+    },
+    "30": {
+        "Fach": "Angewandte Thermodynamik: Thermodynamische Gr\u00f6\u00dfen f\u00fcr industrielle Anwendungen (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung= ehemals Angewandte Thermodynamik",
+        "Zeit": ""
+    },
+    "31": {
+        "Fach": "Anwendung numerischer Str\u00f6mungsberechnungen im Schiffbau",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "32": {
+        "Fach": "Anwendungssicherheit (Modul)",
+        "Tag": "19.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "33": {
+        "Fach": "Aquatische Umweltchemie",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung= ehemals Umweltchemie",
+        "Zeit": ""
+    },
+    "34": {
+        "Fach": "Arbeitsrecht",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "35": {
+        "Fach": "Assetmanagement und \u00fcbergeordnete Aspekte (Modul)/Assetmanagement in der Energiewirtschaft/ Logistik und Informationstechnologie/Wasserstofftechnologie",
+        "Tag": "23.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007Logistik und Informationstechnologie bereits am 17.07.2017",
+        "Zeit": "09:00"
+    },
+    "36": {
+        "Fach": "Aufbau und Eigenschaften der Kunststoffe",
+        "Tag": "28.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "37": {
+        "Fach": "Aufbau und Eigenschaften der Verbundwerkstoffe",
+        "Tag": "28.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "38": {
+        "Fach": "Ausgew\u00e4hlte Prozesse der Feststoffverfahrenstechnik (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "39": {
+        "Fach": "Ausgew\u00e4hlte Themen der Bauphysik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "40": {
+        "Fach": "Ausgew\u00e4hlte Themen der Baustatik (Modul)/Fl\u00e4chentragwerke/Nichtlineare Stabstatik",
+        "Tag": "31.08.2017",
+        "Ort/Raum": "TUHH, SBS 93 (Geb. A), Raum A1.15.1/2",
+        "Zeit": "09:00"
+    },
+    "41": {
+        "Fach": "Ausgew\u00e4hlte Themen der Bodenmechanik",
+        "Tag": "25.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "08:00"
+    },
+    "42": {
+        "Fach": "Ausgew\u00e4hlte Themen der Meerestechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "43": {
+        "Fach": "Ausgew\u00e4hlte Themen des Abfallressourcenmanagements",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "44": {
+        "Fach": "Ausgew\u00e4hlte Themen des Bauingenieurwesens",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "45": {
+        "Fach": "Auslegung heterogen-katalytische Reaktoren",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "46": {
+        "Fach": "Au\u00dfenwirtschaftslehre",
+        "Tag": "24.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "47": {
+        "Fach": "Automatisierungstechnik und -systeme (Modul)",
+        "Tag": "17.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "48": {
+        "Fach": "BIO I Experimentelle Methoden der Biomechanik (Modul)",
+        "Tag": "11.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Raum 0.09Planung durch den Pr\u00fcfer",
+        "Zeit": "09:45"
+    },
+    "49": {
+        "Fach": "BIO I: Implantate und Frakturheilung (Modul)",
+        "Tag": "01.08.2017",
+        "Ort/Raum": "TUHH, DE15 (Geb. K), Raum K3.502Planung durch den Pr\u00fcfer",
+        "Zeit": "14:00"
+    },
+    "50": {
+        "Fach": "BIO II Gelenkersatz (Modul)",
+        "Tag": "18.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax IIPlanung durch den Pr\u00fcfer",
+        "Zeit": "14:00"
+    },
+    "51": {
+        "Fach": "BIO II: Biomaterialien (Modul)",
+        "Tag": "26.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16Planung durch den Pr\u00fcfer",
+        "Zeit": "14:00"
+    },
+    "52": {
+        "Fach": "Bau- und Umweltmanagement (Modul)/Bauprojektmanagement/Bauvertragsrecht/Umweltrecht",
+        "Tag": "18.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "53": {
+        "Fach": "Baudynamik",
+        "Tag": "29.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "54": {
+        "Fach": "Baukonstruktion (Modul)/Grundlagen der Baukonstruktion/Projektseminar Baukonstruktion",
+        "Tag": "17.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "55": {
+        "Fach": "Bauphysik",
+        "Tag": "07.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "14:00"
+    },
+    "56": {
+        "Fach": "Bauprojektmanagement",
+        "Tag": "18.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "57": {
+        "Fach": "Baustatik I (Modul)",
+        "Tag": "25.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "58": {
+        "Fach": "Baustatik II (Modul)",
+        "Tag": "09.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg",
+        "Zeit": "15:00"
+    },
+    "59": {
+        "Fach": "Baustatik und Baudynamik (Modul)/Ausgew\u00e4hlte Themen des Bauingenieurwesens/Baudynamik/Bruchmechanik und Betriebsfestigkeit im Stahlbau",
+        "Tag": "29.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "60": {
+        "Fach": "Baustoffe und Bauchemie (Modul)",
+        "Tag": "08.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I= zeitgleiche Pr\u00fcfung f\u00fcr Baustoffkunde und Bauchemie I+II",
+        "Zeit": "09:00"
+    },
+    "61": {
+        "Fach": "Baustoffe und Bauwerkserhaltung (Modul)/Instandsetzung von Bauteilen/Mineralische Baustoffe/Transportprozesse in Baustoffen und Bausch\u00e4den",
+        "Tag": "31.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "62": {
+        "Fach": "Baustoffe, Bausch\u00e4den und Instandsetzung f\u00fcr den Studiengang Regenerative Energien",
+        "Tag": "18.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "63": {
+        "Fach": "Baustoffgrundlagen und Bauphysik (Modul)/Grundlagen der Baustoffe/Bauphysik",
+        "Tag": "07.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "14:00"
+    },
+    "64": {
+        "Fach": "Baustoffkunde, Bauchemie II (GTW)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "65": {
+        "Fach": "Bauvertragsrecht",
+        "Tag": "18.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "66": {
+        "Fach": "Berechenbarkeit und Komplexit\u00e4t",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "67": {
+        "Fach": "Besondere Konstruktionen und Werkstoffe in der Schiffs- und Meerestechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "68": {
+        "Fach": "Betontragwerke (Modul)/Stahl- und Spannbetonbauteile",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "14:00"
+    },
+    "69": {
+        "Fach": "Betrieb und Management von Verkehrssystemen",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "70": {
+        "Fach": "Betrieb von \u00f6ffentlichen Verkehrssystemen (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "71": {
+        "Fach": "Betriebliches Entscheiden",
+        "Tag": "10.07.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506Planung durch den Pr\u00fcfer",
+        "Zeit": "11:15"
+    },
+    "72": {
+        "Fach": "Betriebsfestigkeit von Schiffen und Meerestechnischen Konstruktionen (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "73": {
+        "Fach": "Betriebsmanagement und Betriebsorganisation",
+        "Tag": "21.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "14:00"
+    },
+    "74": {
+        "Fach": "Betriebssysteme (Modul)",
+        "Tag": "11.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "75": {
+        "Fach": "Bildgebende Systeme in der Medizin (Modul)",
+        "Tag": "15.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "08:00"
+    },
+    "76": {
+        "Fach": "Biochemie und Mikrobiologie (Modul)/Biochemie/Mikrobiologie",
+        "Tag": "14.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "77": {
+        "Fach": "Bioenergie (Modul)/ Biokraftstoffverfahrenstechnik/Thermische Biomassenutzung/World Market for Agricultural Commodities/ Zukunftsf\u00e4hige Mobilit\u00e4t",
+        "Tag": "25.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "11:30"
+    },
+    "78": {
+        "Fach": "Bioinformatik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "79": {
+        "Fach": "Biokatalyse (Modul)/Biokatalyse und Enzymtechnologie/Technische Biokatalyse",
+        "Tag": "13.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "80": {
+        "Fach": "Biokraftstoffe und deren Nutzung I (Modul)/Biokraftstoffverfahrenstechnik/Verbrennungsmotoren I",
+        "Tag": "15.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "81": {
+        "Fach": "Biokraftstoffe und deren Nutzung II (Modul)/Biokraftstoffverfahrenstechnik/Verbrennungsmotoren II",
+        "Tag": "15.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "11:30"
+    },
+    "82": {
+        "Fach": "Biologie, Geologie und Chemie (Modul)/Biologie/Geologie/Umweltanalytik",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "83": {
+        "Fach": "Biomaterialien",
+        "Tag": "26.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16Planung durch den Pr\u00fcfer",
+        "Zeit": "14:00"
+    },
+    "84": {
+        "Fach": "Biomechanik des menschlichen St\u00fctz- und Bewegungsapparates I",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "85": {
+        "Fach": "Biomechanik des menschlichen St\u00fctz- und Bewegungsapparates II",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "86": {
+        "Fach": "Biomechanik und neue Technologien der Medizin (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "87": {
+        "Fach": "Bioprozess- und Biosystemtechnik (Modul)/Auslegung und Betrieb von Bioreaktoren/Biosystemtechnik",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "88": {
+        "Fach": "Bioraffinerietechnologie",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "89": {
+        "Fach": "Bioressourcen und Bioraffinerien (Modul)/Bioraffinertietechnologie/Bioressourcenmanagement",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "90": {
+        "Fach": "Bioverfahrenstechnik - Grundlagen",
+        "Tag": "20.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "91": {
+        "Fach": "Bioverfahrenstechnik - Vertiefung",
+        "Tag": "20.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "92": {
+        "Fach": "Bioverfahrenstechnische Produktionsprozesse",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "93": {
+        "Fach": "Boden- und Grundwasserkontamination (Modul)/NAPL in Boden und Grundwasser",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "94": {
+        "Fach": "Bodenmechanik und -dynamik (Modul)/Ausgew\u00e4hlte Themen der Bodenmechanik/ Bodendynamik/Experimentelle Forschung in der Geotechnik",
+        "Tag": "25.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "08:00"
+    },
+    "95": {
+        "Fach": "Boundary-Elemente-Methoden (Modul)",
+        "Tag": "21.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "96": {
+        "Fach": "Brennstoffzellentechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "97": {
+        "Fach": "Bruchmechanik und Betriebsfestigkeit im Stahlbau",
+        "Tag": "29.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "98": {
+        "Fach": "Bruchmechanik und Schwingfestigkeit II",
+        "Tag": "31.07.2017",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "99": {
+        "Fach": "CAD Werkzeug (Modul) / Methodik f\u00fcr IC-Entwicklung",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "100": {
+        "Fach": "CAPE in der Prozesstechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "101": {
+        "Fach": "CMOS-Nanoelektronik mit Praktikum (Modul)",
+        "Tag": "25.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "14:00"
+    },
+    "102": {
+        "Fach": "Chemie (Modul) (GES) /Chemie (GES) I und Chemie (GES) II",
+        "Tag": "19.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I(Prof. Wutz/Rechtenbach)",
+        "Zeit": "09:00"
+    },
+    "103": {
+        "Fach": "Chemie (Modul)/Chemie I und Chemie II",
+        "Tag": "19.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I(Prof. Wutz/Rechtenbach)",
+        "Zeit": "09:00"
+    },
+    "104": {
+        "Fach": "Chemie I / Chemie II / Biologische und \u00f6kologische Grundlagen",
+        "Tag": "19.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I(Prof. Wutz/Rechtenbach)",
+        "Zeit": "09:00"
+    },
+    "105": {
+        "Fach": "Chemie I/ Chemie II GES",
+        "Tag": "19.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I(Prof. Wutz/Rechtenbach)",
+        "Zeit": "09:00"
+    },
+    "106": {
+        "Fach": "Chemie II (Organische Chemie)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "107": {
+        "Fach": "Chemische Kinetik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "108": {
+        "Fach": "Chemische Reaktionstechnik (Modul)  (Vertiefung)",
+        "Tag": "28.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "11:00"
+    },
+    "109": {
+        "Fach": "Chemische Reaktionstechnik (Modul) (Grundlagen)",
+        "Tag": "28.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "08:00"
+    },
+    "110": {
+        "Fach": "Chromatographische Trennverfahren",
+        "Tag": "28.07.2017",
+        "Ort/Raum": "TUHH, SBC 2(Geb D), Raum 2.022",
+        "Zeit": "09:00"
+    },
+    "111": {
+        "Fach": "Compilerbau (Modul)",
+        "Tag": "18.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "112": {
+        "Fach": "Computational Fluid Dynamics",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "113": {
+        "Fach": "Computational Web",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "114": {
+        "Fach": "Computer Aided Design and Computation",
+        "Tag": "01.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "115": {
+        "Fach": "Computer-Grafik (Modul)",
+        "Tag": "24.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "14:00"
+    },
+    "116": {
+        "Fach": "Computerbasierte Berechnung von Betontragwerken (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "117": {
+        "Fach": "Computerorientierte Algebraische Geometrie",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "118": {
+        "Fach": "Controlling (Modul)",
+        "Tag": "08.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "119": {
+        "Fach": "Controlling / Seminar Controlling",
+        "Tag": "08.08.2017",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "120": {
+        "Fach": "Dampferzeuger (Modul)",
+        "Tag": "24.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "121": {
+        "Fach": "Dampfturbinen in regenerativen und konventionellen Anwendungen",
+        "Tag": "12.09.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "14:00"
+    },
+    "122": {
+        "Fach": "Das digitale Unternehmen",
+        "Tag": "03.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "123": {
+        "Fach": "Datenbanken (Modul)",
+        "Tag": "08.09.2017",
+        "Ort/Raum": "UniHH, Informatikum, Vogt-K\u00f6lln-Str. 30, Raum F-534= zeitgleich mit Einf\u00fchrung in Datenbanksysteme",
+        "Zeit": "15:00"
+    },
+    "124": {
+        "Fach": "Die hierarchischen Materialien der Natur",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "125": {
+        "Fach": "Digitale Audiosignalverarbeitung (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "126": {
+        "Fach": "Digitale Bildanalyse (Modul)",
+        "Tag": "08.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "127": {
+        "Fach": "Digitale Bildcodierung",
+        "Tag": "04.08.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II= Mustererkennung und Datenkompression",
+        "Zeit": "14:00"
+    },
+    "128": {
+        "Fach": "Digitale Bildverarbeitung",
+        "Tag": "08.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16=Digitale Bildanalyse",
+        "Zeit": "09:00"
+    },
+    "129": {
+        "Fach": "Digitale Nachrichten\u00fcbertragung (Modul)",
+        "Tag": "20.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II= ehemals Drahtlose Kommunikationssysteme",
+        "Zeit": "09:00"
+    },
+    "130": {
+        "Fach": "Digitale Signalverarbeitung und digitale Filter (Modul)",
+        "Tag": "26.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "14:00"
+    },
+    "131": {
+        "Fach": "Diskrete Algebraische Strukturen (Modul)",
+        "Tag": "24.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II= Diskrete Mathematik I",
+        "Zeit": "09:00"
+    },
+    "132": {
+        "Fach": "3D Computer Vision",
+        "Tag": "21.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "133": {
+        "Fach": "E-Commerce",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung(Prof. Ceyp)",
+        "Zeit": ""
+    },
+    "134": {
+        "Fach": "EMV I: Kopplungen, Gegenma\u00dfnahmen und Pr\u00fcfverfahren (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "135": {
+        "Fach": "Economics/International Economics",
+        "Tag": "24.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I= Modul Volkswirtschaftslehre/Au\u00dfenwirtschaftslehre",
+        "Zeit": "09:00"
+    },
+    "136": {
+        "Fach": "Effiziente Algorithmen (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "137": {
+        "Fach": "Eigenwertaufgaben",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "138": {
+        "Fach": "Einf\u00fchrung in Datenbanksysteme",
+        "Tag": "08.09.2017",
+        "Ort/Raum": "UniHH, Informatikum, Vogt-K\u00f6lln-Str. 30, Raum F-534= Konzeptionelle Modellierung, Datenbanken",
+        "Zeit": "15:00"
+    },
+    "139": {
+        "Fach": "Einf\u00fchrung in K\u00fcstenwasserbau und Hafenbau",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "140": {
+        "Fach": "Einf\u00fchrung in Logistik und Mobilit\u00e4t (Modul)/Methoden des wissenschaftlichen Arbeitens/Systemtechnische Grundlagen der Logistik",
+        "Tag": "20.07.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "14:00"
+    },
+    "141": {
+        "Fach": "Einf\u00fchrung in Medizintechnische Systeme (Modul)",
+        "Tag": "08.09.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "09:00"
+    },
+    "142": {
+        "Fach": "Einf\u00fchrung in Quantitiative Methoden in der Logistik (Modul)",
+        "Tag": "27.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "14:00"
+    },
+    "143": {
+        "Fach": "Einf\u00fchrung in das Recht",
+        "Tag": "12.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax IPlanung durch den Pr\u00fcfer",
+        "Zeit": "14:15"
+    },
+    "144": {
+        "Fach": "Einf\u00fchrung in den Maschinenbau (Nachweis)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "145": {
+        "Fach": "Einf\u00fchrung in die Antennentheorie (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "146": {
+        "Fach": "Einf\u00fchrung in die EUT (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "147": {
+        "Fach": "Einf\u00fchrung in die Forschung",
+        "Tag": "11.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax IIPlanung durch den Pr\u00fcfer",
+        "Zeit": "08:00"
+    },
+    "148": {
+        "Fach": "Einf\u00fchrung in die Informationssicherheit (Modul)",
+        "Tag": "11.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "149": {
+        "Fach": "Einf\u00fchrung in die Medizin I+II",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "150": {
+        "Fach": "Einf\u00fchrung in die Nachrichtentechnik und ihre stochastischen Methoden (Modul)",
+        "Tag": "14.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I= zeitgleich/ehemals Grundlagen der Nachrichtentechnik",
+        "Zeit": "09:00"
+    },
+    "151": {
+        "Fach": "Einf\u00fchrung in die Radiologie und Strahlentherapie",
+        "Tag": "03.07.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.008Planung durch den Pr\u00fcfer",
+        "Zeit": "17:00"
+    },
+    "152": {
+        "Fach": "Einf\u00fchrung in die Statistik",
+        "Tag": "27.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "14:00"
+    },
+    "153": {
+        "Fach": "Einf\u00fchrung in die Statistik mit R",
+        "Tag": "25.07.2017",
+        "Ort/Raum": "Keine elektronischen Anmeldungen",
+        "Zeit": ""
+    },
+    "154": {
+        "Fach": "Einf\u00fchrung in die Unternehmensplanung und das Rechnungswesen",
+        "Tag": "27.07.2017",
+        "Ort/Raum": "MesseHalle Hamburg-Schnelsen, Modering 1a, 22457 Hamburg",
+        "Zeit": "10:00"
+    },
+    "155": {
+        "Fach": "Einf\u00fchrung in die VT, BVT",
+        "Tag": "31.07.2017",
+        "Ort/Raum": "TUHH, SBS 93 (Geb. A), Raum A1.15.1/2",
+        "Zeit": "09:00"
+    },
+    "156": {
+        "Fach": "Einf\u00fchrung in die maritime Technik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "157": {
+        "Fach": "Einf\u00fchrung in neue Technologien in der Medizin",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "158": {
+        "Fach": "Eingebettete Systeme (Modul)",
+        "Tag": "15.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "159": {
+        "Fach": "Einschlie\u00dfungsmethoden / Numerische Analysis und Matrixtheorie",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "160": {
+        "Fach": "Eisenbahnwesen (Modul)",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "14:00"
+    },
+    "161": {
+        "Fach": "Eistechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "162": {
+        "Fach": "Elastizit\u00e4tstheorie",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "163": {
+        "Fach": "Electronic Devices",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "164": {
+        "Fach": "Elektrische Anlagen auf Schiffen",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "165": {
+        "Fach": "Elektrische Energiesysteme I (Modul)",
+        "Tag": "20.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "166": {
+        "Fach": "Elektrische Energiesysteme II",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "167": {
+        "Fach": "Elektrische Energieversorgung (Modul)",
+        "Tag": "20.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16= zeitgleich mit Elektrische Energiesysteme I",
+        "Zeit": "09:00"
+    },
+    "168": {
+        "Fach": "Elektrische Maschinen (Modul)",
+        "Tag": "20.07.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg",
+        "Zeit": "09:00"
+    },
+    "169": {
+        "Fach": "Elektrischer Entwurf und Charakterisierung von HF Packages, Interconnects und Materialien",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "170": {
+        "Fach": "Elektromagnetische Vertr\u00e4glichkeit",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "171": {
+        "Fach": "Elektromagnetische Wellen (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "172": {
+        "Fach": "Elektronische Bauelemente (Modul)",
+        "Tag": "02.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "173": {
+        "Fach": "Elektronische Bauelemente und Schaltungen (Modul)/Elektronische Bauelemente f\u00fcr IMPMM/Schaltungsdesign",
+        "Tag": "02.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "174": {
+        "Fach": "Elektrotechnik I (Modul) (GES)",
+        "Tag": "28.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg",
+        "Zeit": "10:00"
+    },
+    "175": {
+        "Fach": "Elektrotechnik I+II f\u00fcr Technomathematiker (Modul)",
+        "Tag": "24.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "176": {
+        "Fach": "Elektrotechnik I: Gleichstromnetzwerke und elektromagnetische Felder (Modul)",
+        "Tag": "28.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg",
+        "Zeit": "10:00"
+    },
+    "177": {
+        "Fach": "Elektrotechnik II (Modul) (GES)",
+        "Tag": "22.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg= zeitgleich mit Elektrotechnik II, da inhaltlich identisch",
+        "Zeit": "09:00"
+    },
+    "178": {
+        "Fach": "Elektrotechnik II: Wechselstr\u00f6me und grundlegende Bauelemente (Modul)",
+        "Tag": "22.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg",
+        "Zeit": "09:00"
+    },
+    "179": {
+        "Fach": "Elektrotechnik III: Netzwerktheorie und Transienten (Modul)",
+        "Tag": "20.09.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "09:00"
+    },
+    "180": {
+        "Fach": "Elektrotechnik IV: Leitungen und Forschungsseminar (Modul)/Leitungstheorie",
+        "Tag": "04.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "13:00"
+    },
+    "181": {
+        "Fach": "Elemente integrierter Produktionssysteme (Modul)/ Produktivit\u00e4tsmanagement",
+        "Tag": "03.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "182": {
+        "Fach": "Energie aus Biomasse/ Bioressourcenmanagement",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "183": {
+        "Fach": "Energie aus Biomasse/ Internationale Logistik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "184": {
+        "Fach": "Energiehandel und Energiem\u00e4rkte",
+        "Tag": "04.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "185": {
+        "Fach": "Energieprojekte und ihre Bewertung (Modul)/Entwicklung regenerativer Energieprojekte/Nachhaltigkeitsmanagement/Wirtschaftlichkeit einer regenerativen Energiebereitstellung",
+        "Tag": "01.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "186": {
+        "Fach": "Energiesysteme und Energiewirtschaft / Elektrizit\u00e4tswirtschaft",
+        "Tag": "18.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "09:00"
+    },
+    "187": {
+        "Fach": "Entwerfen von Schiffen (Modul)",
+        "Tag": "18.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "188": {
+        "Fach": "Entwicklung regenerativer Energieprojekte",
+        "Tag": "01.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "189": {
+        "Fach": "Entwicklungsmanagement Mechatronik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "190": {
+        "Fach": "Entwurf und Implementierung von Software Systemen (Modul)",
+        "Tag": "17.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "191": {
+        "Fach": "Entwurf und Konstruktion von Tragwerken / Leichtbau (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "192": {
+        "Fach": "Entwurf von Kabinensystemen (Modul)",
+        "Tag": "19.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "193": {
+        "Fach": "Entwurf von webbasierten Anwendungen",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "194": {
+        "Fach": "Erm\u00fcdung und Schadenstoleranz",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "195": {
+        "Fach": "Fabrikplanung & Produktionslogistik (Modul) /Fabrikplanung/Produktionslogistik",
+        "Tag": "30.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "14:00"
+    },
+    "196": {
+        "Fach": "Faseroptik und Integrierte Optik (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "197": {
+        "Fach": "Fertigungstechnik (Modul)/Fertigungstechnik I/Fertigungstechnik II",
+        "Tag": "11.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg",
+        "Zeit": "09:00"
+    },
+    "198": {
+        "Fach": "Fertigungstechnik I-III",
+        "Tag": "11.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg",
+        "Zeit": "09:00"
+    },
+    "199": {
+        "Fach": "Fertigungstechnik I/II",
+        "Tag": "11.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg",
+        "Zeit": "09:00"
+    },
+    "200": {
+        "Fach": "Finite-Elemente-Methoden (Modul)",
+        "Tag": "01.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "201": {
+        "Fach": "Flugf\u00fchrung und Betrieb einer Luftverkehrsgesellschaft (Modul)/Betrieb einer Luftverkehrsgesellschaft/Einf\u00fchrung in die Flugf\u00fchrung",
+        "Tag": "19.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "14:00"
+    },
+    "202": {
+        "Fach": "Flughafenplanung und Betrieb (Modul)",
+        "Tag": "25.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "14:00"
+    },
+    "203": {
+        "Fach": "Flugmechanik II (Modul)",
+        "Tag": "06.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "204": {
+        "Fach": "Flugzeug-Kabinensysteme (Modul)",
+        "Tag": "14.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "205": {
+        "Fach": "Flugzeugsysteme I (Modul)",
+        "Tag": "01.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "206": {
+        "Fach": "Flugzeugsysteme II (Modul)",
+        "Tag": "26.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "207": {
+        "Fach": "Flugzeugsysteme III",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "208": {
+        "Fach": "Fluidtechnik (Modul)",
+        "Tag": "24.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007= Grundlagen der Fluidtechnik",
+        "Zeit": "09:00"
+    },
+    "209": {
+        "Fach": "Fluidverfahrenstechnik",
+        "Tag": "18.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "11:30"
+    },
+    "210": {
+        "Fach": "Forschungsprojekt Verfahrenstechnik (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "211": {
+        "Fach": "Fortschrittliche Verfahren der Mikrostrukturanalyse",
+        "Tag": "08.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "212": {
+        "Fach": "Forum Baustoffe, Bauphysik und Bauchemie",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "213": {
+        "Fach": "F\u00fchrung, Organisation und Personalmanagement (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "214": {
+        "Fach": "Funktionales Programmieren (Modul)",
+        "Tag": "25.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "215": {
+        "Fach": "Gasnetze",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "216": {
+        "Fach": "Gefahrstoffe und Prozesssicherheit",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "217": {
+        "Fach": "Genetik/Molekularbiologie",
+        "Tag": "14.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506= jetzt im Modul Molekularbiologische Grundlagen",
+        "Zeit": "09:00"
+    },
+    "218": {
+        "Fach": "Geohydraulik und Stofftransport",
+        "Tag": "27.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "219": {
+        "Fach": "Geoinformationssysteme in Wasserwirtschaft und Umwelt / Naturnaher Wasserbau",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "220": {
+        "Fach": "Geologie und Bodenkunde",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "221": {
+        "Fach": "Geotechnik I/Bodenmechanik (Modul)",
+        "Tag": "13.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I= Bodenmechanik",
+        "Zeit": "09:00"
+    },
+    "222": {
+        "Fach": "Geotechnik II (Modul)",
+        "Tag": "13.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I= Grundbau",
+        "Zeit": "11:30"
+    },
+    "223": {
+        "Fach": "Gew\u00e4sserkunde",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "224": {
+        "Fach": "Gew\u00e4sserschutz und Abwassermanagement (Modul)",
+        "Tag": "22.08.2017",
+        "Ort/Raum": "Keine elektronischen Anmeldungen",
+        "Zeit": ""
+    },
+    "225": {
+        "Fach": "Gewerblicher Rechtsschutz",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "226": {
+        "Fach": "Graphentheorie und Optimierung (Modul)",
+        "Tag": "21.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "08:00"
+    },
+    "227": {
+        "Fach": "Grenzfl\u00e4chen in verfahrenstechnischen Prozessen",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "228": {
+        "Fach": "Grenzfl\u00e4chen und grenzfl\u00e4chenbestimmte Materialien (Modul)/Grenzfl\u00e4chen",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "229": {
+        "Fach": "Gro\u00dfes Konstruktionsprojekt (Modul)",
+        "Tag": "16.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg= ehemals Konstruktionsklausur Getriebe",
+        "Zeit": "09:00"
+    },
+    "230": {
+        "Fach": "Ground Water Engineering",
+        "Tag": "21.08.2017",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "231": {
+        "Fach": "Gr\u00fcndungsmanagement",
+        "Tag": "26.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "232": {
+        "Fach": "Grundlagen der Betriebswirtschaftslehre (Modul)",
+        "Tag": "27.07.2017",
+        "Ort/Raum": "MesseHalle Hamburg-Schnelsen, Modering 1a, 22457 Hamburg= Einf\u00fchrung in die Betriebswirtschaft BWL I",
+        "Zeit": "09:00"
+    },
+    "233": {
+        "Fach": "Grundlagen der Elektrotechnik (Modul)",
+        "Tag": "23.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg= Grundlagen der Elektrotechnik I",
+        "Zeit": "14:30"
+    },
+    "234": {
+        "Fach": "Grundlagen der Elektrotechnik II",
+        "Tag": "20.07.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg",
+        "Zeit": "09:00"
+    },
+    "235": {
+        "Fach": "Grundlagen der Flugzeugsysteme",
+        "Tag": "11.09.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "09:00"
+    },
+    "236": {
+        "Fach": "Grundlagen der Handhabungs- und Montagesysteme",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "237": {
+        "Fach": "Grundlagen der Konstruktion und Strukturanalyse von Schiffen (Modul)/Grundlagen der Konstruktion von Schiffen/Grundlagen der Strukturanalyse von Schiffen",
+        "Tag": "08.09.2017",
+        "Ort/Raum": "TUHH, SBC 2(Geb D), Raum 2.022",
+        "Zeit": "09:00"
+    },
+    "238": {
+        "Fach": "Grundlagen der Konstruktionslehre (Modul)",
+        "Tag": "03.08.2017",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "239": {
+        "Fach": "Grundlagen der Kraft- und Arbeitsmaschinen",
+        "Tag": "20.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "14:00"
+    },
+    "240": {
+        "Fach": "Grundlagen der Nachrichtentechnik",
+        "Tag": "14.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I= ehemals Nachrichten\u00fcbertragung",
+        "Zeit": "09:00"
+    },
+    "241": {
+        "Fach": "Grundlagen der Regelungstechnik (Modul)",
+        "Tag": "01.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "242": {
+        "Fach": "Grundlagen der Str\u00f6mungsmechanik (Modul)",
+        "Tag": "11.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "15:00"
+    },
+    "243": {
+        "Fach": "Grundlagen der Strukturanalyse von Schiffen",
+        "Tag": "08.09.2017",
+        "Ort/Raum": "TUHH, SBC 2(Geb D), Raum 2.022",
+        "Zeit": "09:00"
+    },
+    "244": {
+        "Fach": "Grundlagen der Verbrennungstechnik",
+        "Tag": "29.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I= Kraft-W\u00e4rme-Kopplung und Verbrennungstechnik",
+        "Zeit": "09:00"
+    },
+    "245": {
+        "Fach": "Grundlagen der Verfahrenstechnik (Modul)/Einf\u00fchrung in die VT/BioVT/Grundlagen der Werkstofftechnik",
+        "Tag": "31.07.2017",
+        "Ort/Raum": "TUHH, SBS 93 (Geb. A), Raum A1.15.1/2",
+        "Zeit": "09:00"
+    },
+    "246": {
+        "Fach": "Grundlagen der Verkehrwirtschaft (Modul)",
+        "Tag": "07.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "247": {
+        "Fach": "Grundlagen der W\u00e4rme- und Stoff\u00fcbertragung",
+        "Tag": "08.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506= ehemals W\u00e4rme- und Stoff\u00fcbertragung",
+        "Zeit": "09:00"
+    },
+    "248": {
+        "Fach": "Grundlagen der Werkstoffkunde",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "249": {
+        "Fach": "Grundlagen der Werkstoffwissenschaft I",
+        "Tag": "21.09.2017",
+        "Ort/Raum": "Sporthalle HH, Krochmannstr. 55, 22297 Hamburg",
+        "Zeit": ""
+    },
+    "250": {
+        "Fach": "Grundlagen der Werkstoffwissenschaft I / Grundlagen der Werkstoffwissenschaft II",
+        "Tag": "21.09.2017",
+        "Ort/Raum": "Sporthalle HH, Krochmannstr. 55, 22297 Hamburg",
+        "Zeit": "09:00"
+    },
+    "251": {
+        "Fach": "Grundlagen der Werkstoffwissenschaft II",
+        "Tag": "21.09.2017",
+        "Ort/Raum": "Sporthalle HH, Krochmannstr. 55, 22297 Hamburg",
+        "Zeit": "10:30"
+    },
+    "252": {
+        "Fach": "Grundlagen der Werkstoffwissenschaft II (1/2Sem)",
+        "Tag": "21.09.2017",
+        "Ort/Raum": "Sporthalle HH, Krochmannstr. 55, 22297 Hamburg",
+        "Zeit": "10:30"
+    },
+    "253": {
+        "Fach": "Grundlagen der Werkstoffwissenschaften (Modul)/Grundlagen der Werkstoffwissenschaft I/Grundlagen der Werkstoffwissenschaft II (Keramische Hochleistungswerkstoffe, Kunststoffe und Verbundwerkstoffe)/Physikalische und Chemische Grundlagen der Werkstoffwisse",
+        "Tag": "21.09.2017",
+        "Ort/Raum": "Sporthalle HH, Krochmannstr. 55, 22297 Hamburg",
+        "Zeit": ""
+    },
+    "254": {
+        "Fach": "Grundlagen der Werkzeugmaschinen",
+        "Tag": "26.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "255": {
+        "Fach": "Grundlagen der Wirbelschichttechnologie",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "256": {
+        "Fach": "Grundlagen der mechanischen Eigenschaften von Werkstoffen",
+        "Tag": "09.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "257": {
+        "Fach": "Grundlagen des Eisenbahnwesens (Modul)",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "08:00"
+    },
+    "258": {
+        "Fach": "Grundlagen des IC-Entwurfs (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "259": {
+        "Fach": "Grundlagen des Produktions- und Qualit\u00e4tsmanagements (Modul)/Organisation des Produktionsprozesses/Qualit\u00e4tsmanagement",
+        "Tag": "07.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "08:00"
+    },
+    "260": {
+        "Fach": "Grundlagen des Schiffsmaschinenbaus",
+        "Tag": "28.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "261": {
+        "Fach": "Grundlagen des Technischen Zeichnens (Modul)",
+        "Tag": "14.08.2017",
+        "Ort/Raum": "TUHH, SBC 2(Geb D), Raum 2.022",
+        "Zeit": "09:00"
+    },
+    "262": {
+        "Fach": "Grundlagen des maschinellen Lernens und des Data-Mining",
+        "Tag": "21.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16= Maschinelles Lernen und Data Mining",
+        "Zeit": "14:00"
+    },
+    "263": {
+        "Fach": "Grundlagen von Zell- und Gewebekulturtechnik / Medizinische Bioverfahrenstechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "264": {
+        "Fach": "Grundwasser (Modul)/Geohydraulik und Stofftransport/Simulation in der Grundwasserhydrologie",
+        "Tag": "27.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "265": {
+        "Fach": "Grundz\u00fcge des Schiffbaus",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "266": {
+        "Fach": "G\u00fctermobilit\u00e4t und Logistiksysteme (Modul)/ Internationale Logistik und Verkehrssysteme/G\u00fctermobilit\u00e4t, Logistik, Verkehr",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "267": {
+        "Fach": "G\u00fctermobilit\u00e4t und Wirtschaftsverkehr",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "268": {
+        "Fach": "HF-Bauelemente und Schaltungen I",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "269": {
+        "Fach": "HF-Bauelemente und Schaltungen II",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "270": {
+        "Fach": "Hafenbau und Hafenplanung (Modul)/Hafenbau/Hafenplanung und Hafenbau/",
+        "Tag": "30.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "271": {
+        "Fach": "Hafenlogistik (Modul)",
+        "Tag": "01.08.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "09:00"
+    },
+    "272": {
+        "Fach": "Halbleiterschaltungstechnik (Modul)",
+        "Tag": "24.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "273": {
+        "Fach": "Halbleitertechnologie I (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "274": {
+        "Fach": "Heterogene Katalyse (Modul)/Analyse und Auslegung Heterogen Katalytischer Reaktoren/Moderne Methoden in der Heterogenen Katalyse",
+        "Tag": "18.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "275": {
+        "Fach": "Hierarchische Algorithmen (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "276": {
+        "Fach": "High-Order FEM (Modul)",
+        "Tag": "28.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16Planung durch den Pr\u00fcfer",
+        "Zeit": "08:30"
+    },
+    "277": {
+        "Fach": "Hilfsanlagen auf Schiffen",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "278": {
+        "Fach": "Hochdruckverfahrenstechnik (Modul)/Hochdrucktechnik im Apparatebau/Industrielle Verfahren unter Hohen Dr\u00fccken/Moderne Trennverfahren",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "279": {
+        "Fach": "Hochfrequenztechnik (Modul)",
+        "Tag": "04.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "280": {
+        "Fach": "Hochfrequenztechnische Grundlagen der Avionik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "281": {
+        "Fach": "Hochleistungsrechnen (Modul)/Grundlagen des Hochleistungsrechnens",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "282": {
+        "Fach": "Holzbereitstellung und -verarbeitung (Modul)/Bioraffinerien-Konzepte und Anlagen/Forstliche Produktionslehre/Mechanische Holztechnologie",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "283": {
+        "Fach": "Holzbereitstellung und -verarbeitung (Modul)/Forstliche Produktionslehre/Mechanische Holztechnologie",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "284": {
+        "Fach": "Hydraulik",
+        "Tag": "30.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "285": {
+        "Fach": "Hydrodynamik schneller Wasserfahrzeuge",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "286": {
+        "Fach": "Hydrologische Systeme (Modul)/Angewandte Oberfl\u00e4chenhydrologie/Interaktion Umwelt/Wasser in Flussgebieten",
+        "Tag": "18.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "287": {
+        "Fach": "Hydromechanik",
+        "Tag": "18.09.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "09:00"
+    },
+    "288": {
+        "Fach": "Hydrostatik und Linienriss (Modul)",
+        "Tag": "11.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "289": {
+        "Fach": "IT f\u00fcr die Logistik (Modul)",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "15:00"
+    },
+    "290": {
+        "Fach": "IT-Sicherheits-Risikomanagement",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "291": {
+        "Fach": "Implantattechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "292": {
+        "Fach": "Industrielle Anorganische und Organische Prozesse",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "293": {
+        "Fach": "Industrielle Biotransformationen (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "294": {
+        "Fach": "Industrielle Planungslehre",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "295": {
+        "Fach": "Informatik (VT, BVT, EUT)",
+        "Tag": "15.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "296": {
+        "Fach": "Informatik f\u00fcr Maschinenbau-Ingenieure (Modul)/Informatik f\u00fcr Maschinenbau-Ingenieure I/Informatik f\u00fcr Maschinenbau-Ingenieure II",
+        "Tag": "23.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg",
+        "Zeit": "09:00"
+    },
+    "297": {
+        "Fach": "Informatik f\u00fcr Maschinenbauingenieure I",
+        "Tag": "23.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg",
+        "Zeit": "09:00"
+    },
+    "298": {
+        "Fach": "Informatik f\u00fcr Maschinenbauingenieure II",
+        "Tag": "23.08.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "14:00"
+    },
+    "299": {
+        "Fach": "Informatik f\u00fcr Verfahrensingenieure (Modul)",
+        "Tag": "15.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "300": {
+        "Fach": "Informationstheorie und Codierung (Modul)",
+        "Tag": "21.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "301": {
+        "Fach": "Ingenieurgeochemie (Modul)/Altlasten und Deponierung/Ingenieurgeochemie",
+        "Tag": "31.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "14:00"
+    },
+    "302": {
+        "Fach": "Innovationsmanagement",
+        "Tag": "21.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "15:00"
+    },
+    "303": {
+        "Fach": "Institutionelle Rahmenbedingungen des internationalen Managements (Modul)/Internationales Wirtschaftsrecht",
+        "Tag": "",
+        "Ort/Raum": "n\u00e4here Informationen \u00fcber Institut/Pr\u00fcferPr\u00fcfungen nur im Wintersemester",
+        "Zeit": ""
+    },
+    "304": {
+        "Fach": "Integrierte Instandhaltung und Ersatzteillogistik (Modul)/Ersatzteillogistik/Instandhaltungslogistik",
+        "Tag": "08.08.2017",
+        "Ort/Raum": "Keine elektronischen Anmeldungen",
+        "Zeit": ""
+    },
+    "305": {
+        "Fach": "Integrierte Produktentwicklung I inkl. CAD-Praktikum",
+        "Tag": "05.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "14:00"
+    },
+    "306": {
+        "Fach": "Integrierte Produktentwicklung II",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "307": {
+        "Fach": "Integrierte Schaltungen (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "308": {
+        "Fach": "Integrierte Verkehrsplanung (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "309": {
+        "Fach": "Integrierter Hochwasserschutz",
+        "Tag": "25.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "310": {
+        "Fach": "Intelligente Autonome Agenten und kognitive Robotik (Modul)/Intelligente Autonome Agenten",
+        "Tag": "20.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "14:00"
+    },
+    "311": {
+        "Fach": "Intelligente Systeme in der Medizin (Modul)",
+        "Tag": "26.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "14:00"
+    },
+    "312": {
+        "Fach": "International Business (Modul) /Internationales Management/Business-to-Business-Marketing/Interkulturelles Management und Kommunikation)",
+        "Tag": "16.08.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2= ehemals Modul: Management, Marketing und Logistik",
+        "Zeit": "09:00"
+    },
+    "313": {
+        "Fach": "Internationale Logistik und Verkehrssysteme",
+        "Tag": "10.07.2017",
+        "Ort/Raum": "TUHH, SBC1 (Geb. A), Raum A3.35.1 und SBC4 (Geb. D), Raum D0.010Planung durch den Pr\u00fcfer",
+        "Zeit": "13:00"
+    },
+    "314": {
+        "Fach": "Internationales Recht f\u00fcr Ingenieure",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "315": {
+        "Fach": "Internationales Wirtschaftsrecht",
+        "Tag": "",
+        "Ort/Raum": "n\u00e4here Informationen \u00fcber Institut/Pr\u00fcferPr\u00fcfungen nur im Wintersemester",
+        "Zeit": ""
+    },
+    "316": {
+        "Fach": "Internes und Externes Rechnungswesen / Investition und Finanzierung",
+        "Tag": "02.08.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "09:00"
+    },
+    "317": {
+        "Fach": "Iterative L\u00f6sung linearer Systeme",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "318": {
+        "Fach": "Kabinensysteme I",
+        "Tag": "14.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "319": {
+        "Fach": "Kabinensysteme II",
+        "Tag": "25.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "320": {
+        "Fach": "Kabinensysteme III",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "321": {
+        "Fach": "Kavitation",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "322": {
+        "Fach": "Keramiken und Kunststoffe (Modul) /Aufbau und Eigenschaften der Kunststoffe/ Technologie keramischer Werkstoffe",
+        "Tag": "28.07.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "14:00"
+    },
+    "323": {
+        "Fach": "Kernkraftwerke und Dampfturbinen (Modul)/Dampfturbinen in regenerativen und konventionellen Anwendungen/Physikalische Grundlagen und Konzepte von Kernkraftwerken",
+        "Tag": "12.09.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "14:00"
+    },
+    "324": {
+        "Fach": "Klimaanlagen (Modul)",
+        "Tag": "08.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "08:00"
+    },
+    "325": {
+        "Fach": "Kolbenmaschinen (Modul)/ Grundlagen der Kraft- und Arbeitsmaschinen - Teil Kolbenmaschinen/ Verbrennungsmotoren I",
+        "Tag": "20.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "14:00"
+    },
+    "326": {
+        "Fach": "Kollektortechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "327": {
+        "Fach": "Kombinatorische Strukturen und Algorithmen (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "328": {
+        "Fach": "Kommunikationsnetze I - Analyse und Struktur (Modul)/Analyse und Struktur von Kommunikationsnetzen/Ausgew\u00e4hlte Themen der Kommunikationsnetze",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "329": {
+        "Fach": "Kommunikationsnetze II: Aktuelle Netztechniken",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "330": {
+        "Fach": "Kompetenzmanagement (Seminar)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "331": {
+        "Fach": "Komplexe Funktionen",
+        "Tag": "31.08.2017",
+        "Ort/Raum": "= Mathematik IV",
+        "Zeit": ""
+    },
+    "332": {
+        "Fach": "Konstruieren mit Kunststoffen und Verbundwerkstoffen (Modul)",
+        "Tag": "18.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "333": {
+        "Fach": "Konstruktion im Grund- und Wasserbau (Modul)/Stahlkonstruktion im Grund- und Wasserbau/Unterirdisches Bauen",
+        "Tag": "03.08.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "09:00"
+    },
+    "334": {
+        "Fach": "Konstruktion und Apparatebau (Modul)",
+        "Tag": "11.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H) Raum H008 und H009",
+        "Zeit": "09:00"
+    },
+    "335": {
+        "Fach": "Konstruktion und Fertigung von Schiffen (Modul)/ Konstruktion von Schiffen/ Schwei\u00dftechnik",
+        "Tag": "28.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "14:00"
+    },
+    "336": {
+        "Fach": "Konstruktionsklausur: Gestalten",
+        "Tag": "16.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg= Teilaufgaben von Konstruktionslehre Gestalten (Modul) = Konstruktionslehre I+II (Konstruktion)",
+        "Zeit": "13:30"
+    },
+    "337": {
+        "Fach": "Konstruktionsklausur: Maschinenelemente",
+        "Tag": "11.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Raum 0.09",
+        "Zeit": "14:00"
+    },
+    "338": {
+        "Fach": "Konstruktionslehre Gestalten (Modul)",
+        "Tag": "16.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg",
+        "Zeit": "13:30"
+    },
+    "339": {
+        "Fach": "Konstruktionslehre I/II (Berechnung und Fragen)",
+        "Tag": "03.08.2017",
+        "Ort/Raum": "= Grundlagen der Konstruktionslehre (Modul)",
+        "Zeit": ""
+    },
+    "340": {
+        "Fach": "Konstruktionslehre III/IV (Berechnung und Fragen)",
+        "Tag": "03.08.2017",
+        "Ort/Raum": "= Vertiefte Konstruktionslehre (Modul)",
+        "Zeit": ""
+    },
+    "341": {
+        "Fach": "Konstruktiver Glasbau",
+        "Tag": "21.07.2017",
+        "Ort/Raum": "= ehemals Leichtbau - Keine elektronischen Anmeldungen",
+        "Zeit": ""
+    },
+    "342": {
+        "Fach": "Kontinuumsmechanik (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "343": {
+        "Fach": "Konvexe und Semidefinite Optimierung",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "344": {
+        "Fach": "Kostenlehre",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "345": {
+        "Fach": "Kraft- und Schmierstoffe",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "346": {
+        "Fach": "Kraft-W\u00e4rme-Kopplung und Verbrennungstechnik (Modul)",
+        "Tag": "29.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "347": {
+        "Fach": "K\u00fcstenwasserbau I (Modul)/Grundlagen des K\u00fcstenwasserbaus",
+        "Tag": "28.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "348": {
+        "Fach": "K\u00fcstenwasserbau II (Modul)/K\u00fcsten- und Hochwasserschutz/Unterhaltung und Verteidigung von Hochwasserschutzanlagen",
+        "Tag": "18.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "14:00"
+    },
+    "349": {
+        "Fach": "Kunststoffe und Verbundwerkstoffe (Modul)/Aufbau und Eigenschaften der Kunststoffe/Aufbau und Eigenschaften der Verbundwerkstoffe",
+        "Tag": "28.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "350": {
+        "Fach": "Lasersysteme und Methoden der Fertigungsprozessauslegung und -analyse (Modul)/ Lasersystem- und -prozesstechnik/ Methoden der Fertigungsprozessanalyse",
+        "Tag": "25.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "351": {
+        "Fach": "Lasertechnik",
+        "Tag": "21.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "10:00"
+    },
+    "352": {
+        "Fach": "Lebensmittelverfahrenstechnik (Modul)",
+        "Tag": "25.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "09:00"
+    },
+    "353": {
+        "Fach": "Leistungselektronik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "354": {
+        "Fach": "Leitungstheorie",
+        "Tag": "04.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I= Elektrotechnik IV",
+        "Zeit": "13:00"
+    },
+    "355": {
+        "Fach": "Lineare Algebra (Modul) (CS, GES)",
+        "Tag": "12.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "356": {
+        "Fach": "Lineare Algebra f\u00fcr Technomathematiker (Modul)/Lineare Algebra f\u00fcr Technomathematiker I+II",
+        "Tag": "12.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16Planung durch den Pr\u00fcfer",
+        "Zeit": "09:00"
+    },
+    "357": {
+        "Fach": "L\u00f6ser f\u00fcr schwachbesetzte lineare Gleichungssysteme",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "358": {
+        "Fach": "Logik, Automaten und Formale Sprachen (Modul)/Logik, Automatentheorie und Formale Sprachen",
+        "Tag": "10.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "359": {
+        "Fach": "Logistik und Informationstechnologie",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I(Prof. Blecker)",
+        "Zeit": "11:30"
+    },
+    "360": {
+        "Fach": "Logistikmanagement (Modul)/Logistikwirtschaft / Einf\u00fchrung in die Produktionslogistik",
+        "Tag": "18.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "13:30"
+    },
+    "361": {
+        "Fach": "Logistische Systeme - Industrie 4.0",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "362": {
+        "Fach": "Luftfahrtsysteme (Modul)/ Grundlagen der Flugzeugsysteme/ Lufttransportsysteme",
+        "Tag": "11.09.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "09:00"
+    },
+    "363": {
+        "Fach": "Luftsicherheit",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "364": {
+        "Fach": "MED I Einf\u00fchrung in die Radiologie und Strahlentherapie (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "365": {
+        "Fach": "MED I: Einf\u00fchrung in die Anatomie (Modul)",
+        "Tag": "05.07.2017",
+        "Ort/Raum": "Universit\u00e4tsklinikum Hamburg Eppendorf, Geb\u00e4ude N61, H\u00f6rsaal AnatomiePlanung durch den Pr\u00fcfer",
+        "Zeit": "17:00"
+    },
+    "366": {
+        "Fach": "MED II Einf\u00fchrung in die Biochemie und Molekularbiologie (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "367": {
+        "Fach": "MED II Einf\u00fchrung in die Physiologie (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "368": {
+        "Fach": "Management von Oberfl\u00e4chenwasser (Modul)/Modellieren von Str\u00f6mungen in Fl\u00fcssen und \u00c4stuaren/Naturnaher Wasserbau/Integrierter Hochwasserschutz",
+        "Tag": "25.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "369": {
+        "Fach": "Man\u00f6vrierf\u00e4higkeit und Schiffshydrodynamik beschr\u00e4nkter Gew\u00e4sser (Modul)/ Man\u00f6vrierf\u00e4higkeit von Schiffen/ Schiffshydrodynamik beschr\u00e4nkter Gew\u00e4sser",
+        "Tag": "20.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "370": {
+        "Fach": "Man\u00f6vrierf\u00e4higkeit von Schiffen",
+        "Tag": "20.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "371": {
+        "Fach": "Marine Bodentechnik (Modul)/Analyse meerestechnischer Systeme/Offshore-Geotechnik",
+        "Tag": "16.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "372": {
+        "Fach": "Marine Geotechnik und Numerik (Modul)",
+        "Tag": "09.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "373": {
+        "Fach": "Maritime Technik und Offshore-Windkraftparks (Modul)/Einf\u00fchrung in die Maritime Technik/Offshore-Windkraftparks",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "374": {
+        "Fach": "Maritime Technik und meerestechnische Systeme (Modul)/ Analyse meerestechnischer Systeme/ Einf\u00fchrung in die Maritime Technik",
+        "Tag": "16.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "375": {
+        "Fach": "Maritimer Transport (Modul)",
+        "Tag": "21.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "14:00"
+    },
+    "376": {
+        "Fach": "Marketing (Modul)/Innovation Marketing/Sales and Services",
+        "Tag": "31.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16= ehemals Innovationsmarketing/Vertrieb und Service (Prof. L\u00fcthje)",
+        "Zeit": "09:00"
+    },
+    "377": {
+        "Fach": "Marketing und Kommunikation (Modul) / Business-to-Business Marketing/ Interkulturelles Management und Kommunikation",
+        "Tag": "16.08.2017",
+        "Ort/Raum": "TUHH, SBS 93 (Geb. A), Raum A1.15.1/2= International Business",
+        "Zeit": "09:00"
+    },
+    "378": {
+        "Fach": "Maschinelles Lernen und Data-Mining (Modul)",
+        "Tag": "21.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16= ehemals Grundlagen des maschinellen Lernens und des Data-Mining",
+        "Zeit": "14:00"
+    },
+    "379": {
+        "Fach": "Massivbau I (Modul) /Stahlbetonbau I",
+        "Tag": "25.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "380": {
+        "Fach": "Massivbau II (Modul)/ Stahlbetonbau II",
+        "Tag": "25.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "381": {
+        "Fach": "Materialphysik und atomare Materialmodellierung (Modul)/Atomare Materialmodellierung/Materialphysik",
+        "Tag": "24.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "14:00"
+    },
+    "382": {
+        "Fach": "Materialpr\u00fcfung, Bauzustands- und Schadensanalyse (Modul)",
+        "Tag": "05.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007Klausur f\u00fcr Studierende nach neuer PO/M\u00fcndliche Pr\u00fcfung f\u00fcr Studierende der alten PO, nach Vereinbarung",
+        "Zeit": "09:00"
+    },
+    "383": {
+        "Fach": "Mathematik I (Modul)/Analysis I/Lineare Algebra I",
+        "Tag": "01.09.2017",
+        "Ort/Raum": "Flughafen Hamburg GmbH - Terminal Tango, Flughafenstr. 1-3, 22335 Hamburg",
+        "Zeit": "10:00"
+    },
+    "384": {
+        "Fach": "Mathematik I: Analysis I",
+        "Tag": "01.09.2017",
+        "Ort/Raum": "Flughafen Hamburg GmbH - Terminal Tango, Flughafenstr. 1-3, 22335 Hamburg",
+        "Zeit": "10:00"
+    },
+    "385": {
+        "Fach": "Mathematik I: Lineare Algebra I",
+        "Tag": "01.09.2017",
+        "Ort/Raum": "Flughafen Hamburg GmbH - Terminal Tango, Flughafenstr. 1-3, 22335 Hamburg",
+        "Zeit": "11:30"
+    },
+    "386": {
+        "Fach": "Mathematik II (Modul)/Analysis II/Lineare Algebra II",
+        "Tag": "31.08.2017",
+        "Ort/Raum": "Flughafen Hamburg GmbH - Terminal Tango, Flughafenstr. 1-3, 22335 Hamburg",
+        "Zeit": "10:00"
+    },
+    "387": {
+        "Fach": "Mathematik II: Analysis II",
+        "Tag": "31.08.2017",
+        "Ort/Raum": "Flughafen Hamburg GmbH - Terminal Tango, Flughafenstr. 1-3, 22335 Hamburg",
+        "Zeit": "10:00"
+    },
+    "388": {
+        "Fach": "Mathematik II: Lineare Algebra II",
+        "Tag": "31.08.2017",
+        "Ort/Raum": "Flughafen Hamburg GmbH - Terminal Tango, Flughafenstr. 1-3, 22335 Hamburg",
+        "Zeit": "11:30"
+    },
+    "389": {
+        "Fach": "Mathematik III - Differentialgleichungen I (Modul)",
+        "Tag": "01.09.2017",
+        "Ort/Raum": "Flughafen Hamburg GmbH - Terminal Tango, Flughafenstr. 1-3, 22335 Hamburg",
+        "Zeit": "14:00"
+    },
+    "390": {
+        "Fach": "Mathematik III: Analysis III",
+        "Tag": "01.09.2017",
+        "Ort/Raum": "Flughafen Hamburg GmbH - Terminal Tango, Flughafenstr. 1-3, 22335 Hamburg",
+        "Zeit": "15:30"
+    },
+    "391": {
+        "Fach": "Mathematik III: Differentialgleichungen I",
+        "Tag": "01.09.2017",
+        "Ort/Raum": "Flughafen Hamburg GmbH - Terminal Tango, Flughafenstr. 1-3, 22335 Hamburg",
+        "Zeit": "14:00"
+    },
+    "392": {
+        "Fach": "Mathematik IV/Komplexe Funktionen",
+        "Tag": "31.08.2017",
+        "Ort/Raum": "UniHH, von-Melle-Park 4; Audimax I",
+        "Zeit": "15:30"
+    },
+    "393": {
+        "Fach": "Mathematik IV: Differentialgleichungen II",
+        "Tag": "31.08.2017",
+        "Ort/Raum": "UniHH, von-Melle-Park 4; Audimax I",
+        "Zeit": "14:00"
+    },
+    "394": {
+        "Fach": "Mathematische Analysis (Modul) (CS, GES)",
+        "Tag": "04.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "395": {
+        "Fach": "Mathematische Bildverarbeitung (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "396": {
+        "Fach": "Mathematische Statistik (Modul)",
+        "Tag": "15.08.2017",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "397": {
+        "Fach": "Mechanik I (Modul) (Stereostatik)",
+        "Tag": "28.07.2017",
+        "Ort/Raum": "MesseHalle Hamburg-Schnelsen, Modering 1a, 22457 Hamburg",
+        "Zeit": "08:30"
+    },
+    "398": {
+        "Fach": "Mechanik I - GES (Modul)",
+        "Tag": "27.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "399": {
+        "Fach": "Mechanik I f\u00fcr ET/IT",
+        "Tag": "09.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg",
+        "Zeit": "09:00"
+    },
+    "400": {
+        "Fach": "Mechanik I+II  f\u00fcr Technomathematiker",
+        "Tag": "28.07.2017",
+        "Ort/Raum": "MesseHalle Hamburg-Schnelsen, Modering 1a, 22457 Hamburg",
+        "Zeit": "08:30"
+    },
+    "401": {
+        "Fach": "Mechanik II (Modul) (Elastostatik)",
+        "Tag": "28.07.2017",
+        "Ort/Raum": "MesseHalle Hamburg-Schnelsen, Modering 1a, 22457 Hamburg",
+        "Zeit": "11:30"
+    },
+    "402": {
+        "Fach": "Mechanik II - GES (Modul)",
+        "Tag": "27.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "11:00"
+    },
+    "403": {
+        "Fach": "Mechanik II f\u00fcr ET/IT",
+        "Tag": "09.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "15:30"
+    },
+    "404": {
+        "Fach": "Mechanik III (Modul) (Hydrostatik, Kinematik, Kinetik I)",
+        "Tag": "27.07.2017",
+        "Ort/Raum": "MesseHalle Hamburg-Schnelsen, Modering 1a, 22457 Hamburg",
+        "Zeit": "14:00"
+    },
+    "405": {
+        "Fach": "Mechanik III - GES (Modul)",
+        "Tag": "27.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "13:00"
+    },
+    "406": {
+        "Fach": "Mechanik IV (Modul) (Kinetik II, Schwingungen, Analytische Mechanik, Mehrk\u00f6rpersysteme)",
+        "Tag": "28.07.2017",
+        "Ort/Raum": "MesseHalle Hamburg-Schnelsen, Modering 1a, 22457 Hamburg",
+        "Zeit": "14:00"
+    },
+    "407": {
+        "Fach": "Mechanische Eigenschaften (Modul)",
+        "Tag": "19.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II= ehemals Mechanische Eigenschaften keramischer Werkstoffe",
+        "Zeit": "14:00"
+    },
+    "408": {
+        "Fach": "Mechanismen, Systeme und Verfahren der Werkstoffpr\u00fcfung",
+        "Tag": "01.07.2017",
+        "Ort/Raum": "TUHH, SBC1 (Geb. A), Raum 0.01Planung durch den Pr\u00fcfer",
+        "Zeit": "09:00"
+    },
+    "409": {
+        "Fach": "Mechatronische Systeme (Modul) /Elektro- und Kontromechanik",
+        "Tag": "21.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "11:30"
+    },
+    "410": {
+        "Fach": "Media Design",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "411": {
+        "Fach": "Medizinelektronik (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "412": {
+        "Fach": "Medizinische Bildverarbeitung",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "413": {
+        "Fach": "Medizinische Bioverfahrenstechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "414": {
+        "Fach": "Mehrphasengleichgewichte",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "415": {
+        "Fach": "Mehrphasige Materialien (Modul)/ Aufbau und EIgenschaften der Verbundwerkstoffe",
+        "Tag": "28.08.2017",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "416": {
+        "Fach": "Membrantechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "417": {
+        "Fach": "Mensch-Maschine Schnittstellen",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "418": {
+        "Fach": "Messmethoden der optischen Nachrichtentechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "419": {
+        "Fach": "Messtechnik f\u00fcr Maschinenbau- und Verfahrensingenieure (Modul)",
+        "Tag": "22.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "14:00"
+    },
+    "420": {
+        "Fach": "Messtechnik und Messdatenverarbeitung (Modul)",
+        "Tag": "18.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007= ehemals Messtechnik (ET)",
+        "Zeit": "09:00"
+    },
+    "421": {
+        "Fach": "Metallische Konstruktionswerkstoffe",
+        "Tag": "11.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "422": {
+        "Fach": "Metallische Werkstoffe f\u00fcr Luftfahrtanwendungen",
+        "Tag": "07.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "423": {
+        "Fach": "Metallische Werkstoffe f\u00fcr den Leichtbau (Modul)",
+        "Tag": "18.08.2017",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "424": {
+        "Fach": "Methoden der Fertigungsprozessgestaltung (Modul)",
+        "Tag": "31.08.2017",
+        "Ort/Raum": "Keine elektronischen Anmeldungen",
+        "Zeit": ""
+    },
+    "425": {
+        "Fach": "Methoden der Prozesssicherheit und Gefahrstoffe",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung= ehemals Gefahrstoffe und Prozesssicherheit",
+        "Zeit": ""
+    },
+    "426": {
+        "Fach": "Methoden der integrierten Produktentwicklung (Modul)/Integrierte Produktentwicklung II",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "427": {
+        "Fach": "Methoden des Flugzeugentwurfs I (Modul)",
+        "Tag": "29.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "428": {
+        "Fach": "Methoden des Flugzeugentwurfs II",
+        "Tag": "29.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "11:30"
+    },
+    "429": {
+        "Fach": "Methodik f\u00fcr IC-Entwicklung",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "430": {
+        "Fach": "Methodisches Konstruieren (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "431": {
+        "Fach": "Mikrobiologie",
+        "Tag": "14.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "432": {
+        "Fach": "Mikrocontrollerschaltungen: Realisierung in Hard- und Software (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "433": {
+        "Fach": "Mikroskopie, Fraktographie, Schadensanalyse",
+        "Tag": "03.08.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "14:00"
+    },
+    "434": {
+        "Fach": "Mikrosystementwurf (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "435": {
+        "Fach": "Mikrosystemtechnik (Modul)",
+        "Tag": "28.09.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "09:00"
+    },
+    "436": {
+        "Fach": "Mikrosystemtechnologie (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "437": {
+        "Fach": "Mikrosystemtechnologie in Theorie und Praxis (Modul)/Mikrosystemtechnologie",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "438": {
+        "Fach": "Mischphasenthermodynamik (Modul)/Thermodynamik III",
+        "Tag": "05.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "439": {
+        "Fach": "Mobilit\u00e4tsforschung und Verkehrsprojekte",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "440": {
+        "Fach": "Modellieren im Wasserbau (Modul)/Hydraulische Modelle/Modellieren von Seegang/Modellieren von Str\u00f6mungen in Fl\u00fcssen und \u00c4stuaren",
+        "Tag": "25.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "441": {
+        "Fach": "Modellieren und Managen von komplexen hydrologischen Systemen/ Interaktion Umwelt/Wasser in Flussgebieten",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "442": {
+        "Fach": "Modellierung in der Wasserwirtschaft (Modul)/Angewandte Grundwassermodellierung/Modellierung von Leitungssystemen",
+        "Tag": "01.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "443": {
+        "Fach": "Modellierung und technische Auslegung von Bioraffinerieprozessen (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "444": {
+        "Fach": "Modellierung von Seegang und komplexen Str\u00f6mungen / Anwendung von Modellsystemen im K\u00fcstenwasserbau und Hafenbau",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "445": {
+        "Fach": "Modellierung von Str\u00f6mungen in Fl\u00fcssen und \u00c4stuaren",
+        "Tag": "25.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "446": {
+        "Fach": "Modellierung von granularen Materialien (Modul)/Mehrskalensimulation von granularen Materialien/Thermodynamische und kinetische Modelllierung von Feststoffprozessen",
+        "Tag": "19.07.2017",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "447": {
+        "Fach": "Moderne Entwicklungen und Anwendungen keramischer Werkstoffe",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "448": {
+        "Fach": "Moderne Funksysteme",
+        "Tag": "",
+        "Ort/Raum": "nach VereinbarungAnmeldung \u00fcber Stud.IP",
+        "Zeit": ""
+    },
+    "449": {
+        "Fach": "Moderne Trennverfahren / Produktionsverfahren unter hohen Dr\u00fccken",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "450": {
+        "Fach": "Moderne Werkstoffe (Modul)/Moderne Methoden der Werkstoffuntersuchung/Moderne Werkstoffentwicklung",
+        "Tag": "12.07.2017",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "451": {
+        "Fach": "Moderne Werkstoffentwicklung",
+        "Tag": "12.07.2017",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "452": {
+        "Fach": "Molekularbiologische Grundlagen (Modul)/Genetik/Molekularbiologie",
+        "Tag": "14.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "453": {
+        "Fach": "Molekulare Modellierung und Numerische Str\u00f6mungssimulation (Modul)/Numerische Str\u00f6mungsmechanik in der Verfahrenstechnik / Statistische Thermodynamik und molekulare Modellierung",
+        "Tag": "18.07.2017",
+        "Ort/Raum": "2. Termin: 14.09.2017 - M\u00fcndliche Pr\u00fcfungen",
+        "Zeit": ""
+    },
+    "454": {
+        "Fach": "Mustererkennung und Datenkompression (Modul)",
+        "Tag": "04.08.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "14:00"
+    },
+    "455": {
+        "Fach": "Nachhaltige Mobilit\u00e4t in Megacities und Entwicklungsl\u00e4ndern",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "456": {
+        "Fach": "Nachhaltiger Hochwasserschutz",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "457": {
+        "Fach": "Nachhaltiges Wassermanagement und Mikrobiologie der Trinkwasserversorgung (Modul)/ Mikrobiologie der Trinkwasserversorgung/Nachhaltiges Wassermanagement",
+        "Tag": "31.07.2017",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "458": {
+        "Fach": "Nachhaltigkeit und Risikomanagement (Modul)/Umweltschutz und Nachhaltigkeit",
+        "Tag": "",
+        "Ort/Raum": "nach VereinbarungPosterpr\u00e4sentation",
+        "Zeit": ""
+    },
+    "459": {
+        "Fach": "Netzwerksicherheit",
+        "Tag": "28.07.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "460": {
+        "Fach": "Netzwerksicherheit (Modul)",
+        "Tag": "28.07.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "461": {
+        "Fach": "Neuronale Netze und genetische Algorithmen f\u00fcr die Regelung dynamischer Systeme",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "462": {
+        "Fach": "Nichtbiologische Reinigungverfahren / Kosteneffiziente Methoden der Wasser- und Abwasseranalytik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "463": {
+        "Fach": "Nichtlineare Dynamik (Modul)",
+        "Tag": "26.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "15:00"
+    },
+    "464": {
+        "Fach": "Nichtlineare Optimierung (Modul)",
+        "Tag": "27.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2= Optimierungsverfahren I",
+        "Zeit": "14:00"
+    },
+    "465": {
+        "Fach": "Nichtlineare Strukturanalyse (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "466": {
+        "Fach": "Numerik gew\u00f6hnlicher Differentialgleichungen",
+        "Tag": "07.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "15:00"
+    },
+    "467": {
+        "Fach": "Numerik gro\u00dfer nichtlinearer Systeme",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "468": {
+        "Fach": "Numerik partieller Differentialgleichungen (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "469": {
+        "Fach": "Numerik und Computer Algebra (Modul)",
+        "Tag": "24.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007= ehemals Sprachen und Algorithmen I",
+        "Zeit": "14:00"
+    },
+    "470": {
+        "Fach": "Numerische Algorithmen in der Strukturmechanik (Modul)",
+        "Tag": "30.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007Planung durch den Pr\u00fcfer",
+        "Zeit": "16:00"
+    },
+    "471": {
+        "Fach": "Numerische Analysis und Matrixtheorie",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "472": {
+        "Fach": "Numerische Mathematik I (Modul)",
+        "Tag": "11.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16= ehemals Numerische Methoden",
+        "Zeit": "14:00"
+    },
+    "473": {
+        "Fach": "Numerische Mathematik II (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung= ehemals Numerische Mathematik M\u00fcndliche Pr\u00fcfung",
+        "Zeit": ""
+    },
+    "474": {
+        "Fach": "Numerische Methoden der Biomechanik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "475": {
+        "Fach": "Numerische Methoden der Thermofluiddynamik I (Modul)",
+        "Tag": "05.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "476": {
+        "Fach": "Numerische Methoden der Thermofluiddynamik II (Modul)",
+        "Tag": "19.07.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "477": {
+        "Fach": "Numerische Methoden f\u00fcr internationale Studieng\u00e4nge",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "478": {
+        "Fach": "Numerische Simulation",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "479": {
+        "Fach": "Numerische Software",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "480": {
+        "Fach": "Numerische Strukturdynamik (Modul)",
+        "Tag": "14.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "481": {
+        "Fach": "Numerische Thermofluiddynamik I",
+        "Tag": "05.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "482": {
+        "Fach": "Numerische Thermofluiddynamik II",
+        "Tag": "19.07.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "483": {
+        "Fach": "Numerische Verfahren in der medizinischen Bildgebung",
+        "Tag": "19.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "14:00"
+    },
+    "484": {
+        "Fach": "Numerische Verfahren zur Feldberechnung",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "485": {
+        "Fach": "Numerische algebraische Geometrie",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "486": {
+        "Fach": "Numerische und seminumerische Programmierung",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung= Sprachen und Algorithmen II",
+        "Zeit": ""
+    },
+    "487": {
+        "Fach": "Objektorientierte Programmierung, Algorithmen und Datenstrukturen (Modul)",
+        "Tag": "04.08.2017",
+        "Ort/Raum": "TUHH, Audimax I und Raum H 0.16",
+        "Zeit": "08:00"
+    },
+    "488": {
+        "Fach": "Objektorientierte Systementwicklung in der Automatisierungstechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "489": {
+        "Fach": "\u00d6ffentliches- und Verfassungsrecht",
+        "Tag": "12.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax IPlanung durch den Pr\u00fcfer",
+        "Zeit": "16:00"
+    },
+    "490": {
+        "Fach": "Offshore-Windkraftparks",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "491": {
+        "Fach": "\u00d6kosysteme und Umweltschutz",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "492": {
+        "Fach": "Operations Research",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "493": {
+        "Fach": "Optik in der Materialwissenschaft I",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "494": {
+        "Fach": "Optik in der Materialwissenschaft II",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "495": {
+        "Fach": "Optimale und Robuste Regelung",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "496": {
+        "Fach": "Optische Nachrichtentechnik I / Optische Nachrichtentechnik II",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "497": {
+        "Fach": "Optoelektronik I - Wellenoptik (Modul)",
+        "Tag": "28.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2Planung durch den Pr\u00fcfer",
+        "Zeit": "10:00"
+    },
+    "498": {
+        "Fach": "Optoelektronik II - Quantenoptik (Modul)",
+        "Tag": "08.08.2017",
+        "Ort/Raum": "TUHH, ES38 (Geb. O), Raum 321Planung durch den Pr\u00fcfer",
+        "Zeit": "10:00"
+    },
+    "499": {
+        "Fach": "Organisation des Produktionsprozesses",
+        "Tag": "07.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "08:00"
+    },
+    "500": {
+        "Fach": "Organisation internationaler Unternehmen und IT (Modul)/Logistik und Informationstechnologie/Personalmanagement und Organisationsentwicklung",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "11:30"
+    },
+    "501": {
+        "Fach": "Organische Chemie (Modul)",
+        "Tag": "10.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax IIPlanung durch den Pr\u00fcfer",
+        "Zeit": "09:00"
+    },
+    "502": {
+        "Fach": "Parametersch\u00e4tzung und adaptive Regelung",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "503": {
+        "Fach": "Partikeltechnologie I",
+        "Tag": "27.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "504": {
+        "Fach": "Partikeltechnologie II",
+        "Tag": "02.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "505": {
+        "Fach": "Partikeltechnologie f\u00fcr internationale Masterprogramme (Modul)",
+        "Tag": "27.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "506": {
+        "Fach": "Partikeltechnologie und Feststoffverfahrenstechnik I (Modul)/Partikeltechnologie I",
+        "Tag": "27.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "507": {
+        "Fach": "Partikeltechnologie und Feststoffverfahrenstechnik II (Modul)/Partikeltechnologie II",
+        "Tag": "02.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "508": {
+        "Fach": "Ph\u00e4nomene und Methoden der Materialwissenschaften (Modul)/Experimentelle Methoden der Materialcharaktersierung/Phasengleichgewichte und Umwandlungen",
+        "Tag": "07.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "14:00"
+    },
+    "509": {
+        "Fach": "Photovoltaik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "510": {
+        "Fach": "Physik I (ET)",
+        "Tag": "28.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I(Prof. Johnson)",
+        "Zeit": "09:00"
+    },
+    "511": {
+        "Fach": "Physik II (ET)",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "512": {
+        "Fach": "Physik der Halbleiterbauelemente I",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "513": {
+        "Fach": "Physik der Halbleiterbauelemente II",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "514": {
+        "Fach": "Physik f\u00fcr Ingenieure (AIW, ET)",
+        "Tag": "11.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "11:30"
+    },
+    "515": {
+        "Fach": "Physik f\u00fcr Ingenieure (Modul) (AIW, ET)",
+        "Tag": "11.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "11:30"
+    },
+    "516": {
+        "Fach": "Physik f\u00fcr Ingenieure (Modul) (GES)",
+        "Tag": "11.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I(Prof. Petrov)",
+        "Zeit": "11:30"
+    },
+    "517": {
+        "Fach": "Physik f\u00fcr VT/BVT/EUT-Ingenieure (Modul)",
+        "Tag": "13.09.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II(Prof. Schroer)",
+        "Zeit": "09:00"
+    },
+    "518": {
+        "Fach": "Physikalische Chemie (Modul)",
+        "Tag": "25.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16= Chemie III",
+        "Zeit": "09:00"
+    },
+    "519": {
+        "Fach": "Physikalische Grundlagen der Hochtemperaturfestigkeit und des Kriechens",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "520": {
+        "Fach": "Physikalische Grundlagen und Konzepte von Kernkraftwerken",
+        "Tag": "12.09.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "14:00"
+    },
+    "521": {
+        "Fach": "Planung von Verkehrsinfrastruktur",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "522": {
+        "Fach": "Praktischer Schaltungsentwurf - analog / Praktischer Schaltungsentwurf - digital",
+        "Tag": "12.09.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "09:00"
+    },
+    "523": {
+        "Fach": "Praktischer Schaltungsentwurf analog und digital (Modul)",
+        "Tag": "12.09.2017",
+        "Ort/Raum": "TUHH, SBS 93 (Geb. A), Raum A1.15.1/2",
+        "Zeit": "09:00"
+    },
+    "524": {
+        "Fach": "Probleme der Meerestechnik in der industriellen Praxis",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "525": {
+        "Fach": "Problemorientierte Lehrveranstaltung Energie aus Abfall",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "526": {
+        "Fach": "Problemorientierte Lehrveranstaltung: Innovationsmarketing",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "527": {
+        "Fach": "Problemorientierte Lehrveranstaltung: Service und Vertrieb",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "528": {
+        "Fach": "Produktion- und Logistikmanagement (Modul)/Strategisches Produktions- -und Logistikmanagement/Operatives Produktions- und Logistikmanagement",
+        "Tag": "02.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "529": {
+        "Fach": "Produktionsautomatisierung",
+        "Tag": "17.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16= Teil Modul Automatisierungstechnik und -systeme",
+        "Zeit": "09:00"
+    },
+    "530": {
+        "Fach": "Produktionscontrolling (Modul)",
+        "Tag": "18.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "14:00"
+    },
+    "531": {
+        "Fach": "Produktionslogistik",
+        "Tag": "30.08.2017",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "532": {
+        "Fach": "Produktionsplanung und -steuerung und Digitales Unternehmen (Modul)/Das digitale Unternehmen/Produktionsplanung und -steuerung",
+        "Tag": "03.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506= ehemals Produktionsmangement I+II/Produktivit\u00e4tsmanagement",
+        "Zeit": "09:00"
+    },
+    "533": {
+        "Fach": "Produktionstechnologie (Modul)/Grundlagen der Werkzeugmaschinen/Umform- und Zerspantechnologie",
+        "Tag": "26.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "534": {
+        "Fach": "Produktplanung (Modul)",
+        "Tag": "28.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II(Prof. Herstatt)",
+        "Zeit": "14:00"
+    },
+    "535": {
+        "Fach": "Projektierungskurs (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "536": {
+        "Fach": "Projektmanagement (Modul)/ Strategien und Techniken des Verhandelns /Methodenbasiertes Projektmanagement",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "537": {
+        "Fach": "Projektmanagement (Nachweis)",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "15:00"
+    },
+    "538": {
+        "Fach": "Projektmanagement in der industriellen Praxis (Nachweis)",
+        "Tag": "22.09.2017",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "539": {
+        "Fach": "Prozedurale Programmierung (Modul)",
+        "Tag": "06.09.2017",
+        "Ort/Raum": "TUHH, Audimax I und Raum H 0.16= ehemals Programmiermethodik",
+        "Zeit": "09:00"
+    },
+    "540": {
+        "Fach": "Prozess- und Anlagentechnik I (Modul)",
+        "Tag": "17.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "541": {
+        "Fach": "Prozess- und Anlagentechnik II (Modul)",
+        "Tag": "17.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "542": {
+        "Fach": "Prozessautomatisierungstechnik (Modul)",
+        "Tag": "24.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "09:00"
+    },
+    "543": {
+        "Fach": "Prozessdatenverarbeitung",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "544": {
+        "Fach": "Prozesse der Wasser- und Abwasserreinigung",
+        "Tag": "04.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16= zeitgleich mit Siedlungswasserwirtschaft /anderer Pr\u00fcfungsraum",
+        "Zeit": "14:00"
+    },
+    "545": {
+        "Fach": "Prozessmesstechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "546": {
+        "Fach": "Qualit\u00e4tsmanagement",
+        "Tag": "07.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "08:00"
+    },
+    "547": {
+        "Fach": "Quantencomputing (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "548": {
+        "Fach": "Quantenmechanik f\u00fcr Studierende der Ingenieurwissenschaften (Modul)",
+        "Tag": "22.09.2017",
+        "Ort/Raum": "Keine elektronischen Anmeldungen",
+        "Zeit": ""
+    },
+    "549": {
+        "Fach": "Quantitative Methoden - Statistik und Operations Research (Modul)",
+        "Tag": "27.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "14:00"
+    },
+    "550": {
+        "Fach": "Quantitative Methoden in der Logistik (Modul)/Optimierung in der Logistik/Simulationsmethoden",
+        "Tag": "27.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I= ehemals Optimierung in der Logistik/Quantitative Methoden",
+        "Zeit": "14:00"
+    },
+    "551": {
+        "Fach": "Radartechnik und -signalverarbeitung",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "552": {
+        "Fach": "Rapid Production (Modul)",
+        "Tag": "21.07.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "11:30"
+    },
+    "553": {
+        "Fach": "Realisierung eines I&K; Anwendungssystems",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "554": {
+        "Fach": "Realzeitsysteme",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "555": {
+        "Fach": "Rechnerarchitektur (Modul)",
+        "Tag": "16.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "556": {
+        "Fach": "Rechnergest\u00fctzte Geometrie (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "557": {
+        "Fach": "Rechnernetze und Internet-Sicherheit (Modul)",
+        "Tag": "19.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "558": {
+        "Fach": "Rechnungswesen (Modul)/Internes und Externes Rechnungswesen/Investition und Finanzierung",
+        "Tag": "02.08.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "09:00"
+    },
+    "559": {
+        "Fach": "Recht f\u00fcr Ingenieure",
+        "Tag": "",
+        "Ort/Raum": "Pr\u00fcfungen nur im Wintersemester",
+        "Zeit": ""
+    },
+    "560": {
+        "Fach": "Rechtliche Aspekte der Nutzung regenerativer Energien/ Abfallverwertungstechnologien/ Energie aus Abfall",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "561": {
+        "Fach": "Rechtliche Grundlagen Transport, Verkehr und Logistik (Modul)",
+        "Tag": "19.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "09:00"
+    },
+    "562": {
+        "Fach": "Regelungstechnik II (= Theorie und Entwurf regelungstechnischer Systeme)",
+        "Tag": "20.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "563": {
+        "Fach": "Regelungstechnische Methoden f\u00fcr die Medizintechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "564": {
+        "Fach": "Regenerative Energiesysteme und Energiewirtschaft (Modul)/Elektrizit\u00e4tswirtschaft/Energiesysteme und Energiewirtschaft/Regenerative Energien",
+        "Tag": "18.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "09:00"
+    },
+    "565": {
+        "Fach": "Regenerative Medizin (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "566": {
+        "Fach": "Ressourcenorientierte Abwassersysteme: High- und Low-Tech Optionen (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "567": {
+        "Fach": "Risikomanagement",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung(Dr. M. Schr\u00f6der)",
+        "Zeit": ""
+    },
+    "568": {
+        "Fach": "Risikomanagement, Wasserstoff- und Brennstoffzellentechnologie (Modul)/ Angewandte Brennstoffzellentechnologie/ Risikomanagement in der Energiewirtschaft/Wasserstofftechnologie",
+        "Tag": "23.08.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2= zeitgleich mit Assetmanagement und \u00fcbergeordnete Aspekte",
+        "Zeit": "09:00"
+    },
+    "569": {
+        "Fach": "Robotik (Modul)/Robotik: Modellierung und Regelung",
+        "Tag": "01.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16= ehemals Robotik I",
+        "Zeit": "09:00"
+    },
+    "570": {
+        "Fach": "Robotik II",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "571": {
+        "Fach": "Robotik und Navigation in der Medizin (Modul)",
+        "Tag": "20.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax IIPlanung durch den Pr\u00fcfer",
+        "Zeit": "13:30"
+    },
+    "572": {
+        "Fach": "Schiffsakustik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "573": {
+        "Fach": "Schiffsdynamik",
+        "Tag": "19.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "574": {
+        "Fach": "Schiffsfertigung",
+        "Tag": "20.09.2017",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "575": {
+        "Fach": "Schiffshydrodynamik beschr\u00e4nkter Gew\u00e4sser",
+        "Tag": "",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "576": {
+        "Fach": "Schiffskonstruktion I+II",
+        "Tag": "11.08.2017",
+        "Ort/Raum": "TUHH, SBC 2(Geb D), Raum 2.022",
+        "Zeit": "09:00"
+    },
+    "577": {
+        "Fach": "Schiffspropeller",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "578": {
+        "Fach": "Schiffssicherheit (Modul)",
+        "Tag": "20.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "09:00"
+    },
+    "579": {
+        "Fach": "Schiffsvibrationen (Modul)",
+        "Tag": "13.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "580": {
+        "Fach": "Schlammbehandlung",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "581": {
+        "Fach": "Schwei\u00dftechnik",
+        "Tag": "28.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "14:00"
+    },
+    "582": {
+        "Fach": "Seeverhalten von Schiffen und Schiffbaulabor (Modul)",
+        "Tag": "23.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "14:00"
+    },
+    "583": {
+        "Fach": "Seminar: Illustrationen als Kommunikationsmittel",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "584": {
+        "Fach": "Sensorik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "585": {
+        "Fach": "Sicherheits-, Gesundheits- und Umweltmanagement",
+        "Tag": "31.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "586": {
+        "Fach": "Siedlungswasserwirtschaft (Modul)/ Abwasserentsorgung/ Trinkwasserversorgung",
+        "Tag": "04.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "14:00"
+    },
+    "587": {
+        "Fach": "Signale und Systeme (Modul)",
+        "Tag": "23.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg= ehemals Systemtheorie",
+        "Zeit": "12:30"
+    },
+    "588": {
+        "Fach": "Simulation dynamischer Systeme",
+        "Tag": "06.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "589": {
+        "Fach": "Simulation dynamischer Systeme und Zuverl\u00e4ssigkeit (Modul)/Simulation dynamischer Systeme/Zuverl\u00e4ssigkeit dynamischer Systeme",
+        "Tag": "06.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "590": {
+        "Fach": "Simulation in der Intralogistik (Modul)",
+        "Tag": "20.07.2017",
+        "Ort/Raum": "TUHH, DE17 (Geb. L) Raum 3038ACHTUNG - \u00c4nderung Pr\u00fcfungsort",
+        "Zeit": "09:00"
+    },
+    "591": {
+        "Fach": "Simulationen in der Grundwasserhydrologie",
+        "Tag": "27.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "592": {
+        "Fach": "Six Sigma Methodik im Qualit\u00e4tsmanagement",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "593": {
+        "Fach": "Software Engineering (Modul)",
+        "Tag": "18.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "14:00"
+    },
+    "594": {
+        "Fach": "Software f\u00fcr eingebettete Systeme (Modul)",
+        "Tag": "08.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "595": {
+        "Fach": "Software-Sicherheit (Modul)",
+        "Tag": "18.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "09:00"
+    },
+    "596": {
+        "Fach": "Softwareanalyse (Modul)",
+        "Tag": "13.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "597": {
+        "Fach": "Softwaretesten (Modul)",
+        "Tag": "13.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "598": {
+        "Fach": "Softwareverifikation (Modul)",
+        "Tag": "31.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "14:00"
+    },
+    "599": {
+        "Fach": "Solarenergienutzung (Modul)/Kollektortechnik/Solare Stromerzeugung/Strahlung und Optik",
+        "Tag": "31.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "09:00"
+    },
+    "600": {
+        "Fach": "Sondergebiete der Str\u00f6mungsmechanik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "601": {
+        "Fach": "Sondergebiete der Umweltschutztechnik (Modul)/Str\u00f6mungsmechanik und Hydraulik/Umweltanalytik",
+        "Tag": "24.08.2017",
+        "Ort/Raum": "Keine elektronischen Anmeldungen",
+        "Zeit": ""
+    },
+    "602": {
+        "Fach": "Spannbeton- und Massivbr\u00fcckenbau (Modul)",
+        "Tag": "14.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506= ehemals Spannbeton- und Br\u00fcckenbau",
+        "Zeit": "09:00"
+    },
+    "603": {
+        "Fach": "Spezialtiefbau und Bodenpraktikum (Modul)/Spezialtiefbau",
+        "Tag": "12.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "14:00"
+    },
+    "604": {
+        "Fach": "Spezielle Gebiete der Schiffspropulsion und Hydrodynamik schneller Wasserfahrzeuge (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "605": {
+        "Fach": "Spezielle Kapitel des Schiffsentwurfs",
+        "Tag": "05.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "14:00"
+    },
+    "606": {
+        "Fach": "Stabilit\u00e4tsprobleme im Stahlbau",
+        "Tag": "25.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "607": {
+        "Fach": "St\u00e4dtisches Umweltmanagement (Modul)/L\u00e4rmschutz",
+        "Tag": "",
+        "Ort/Raum": "nach VereinbarungKeine schriftliche Klausur (PBL-Veranstaltung)",
+        "Zeit": ""
+    },
+    "608": {
+        "Fach": "Stahl- und Verbundtragwerke (Modul)/Stahl- und Verbundtragwerke/Stahlbr\u00fcckenbau",
+        "Tag": "25.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16= ehemals Stabilit\u00e4tsproblem im Stahlbau",
+        "Zeit": "09:00"
+    },
+    "609": {
+        "Fach": "Stahlbau I (Modul)",
+        "Tag": "25.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "08:30"
+    },
+    "610": {
+        "Fach": "Stahlbau I+II",
+        "Tag": "25.08.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "11:00"
+    },
+    "611": {
+        "Fach": "Stahlbau II (Modul)",
+        "Tag": "25.08.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "11:00"
+    },
+    "612": {
+        "Fach": "Stahlbetonbau I+II",
+        "Tag": "25.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "613": {
+        "Fach": "Stahlbetonbau III /Stahlbetonhochbau",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "14:00"
+    },
+    "614": {
+        "Fach": "Statistik und Stochastik in der Schiffs- und Meerestechnik",
+        "Tag": "19.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "615": {
+        "Fach": "Statistische Thermodynamik und molekulare Modellierung",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "616": {
+        "Fach": "Steuerung und Regelung Hydrostatischer Antriebe",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "617": {
+        "Fach": "Steuerungstechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "618": {
+        "Fach": "Stochastik (Modul)",
+        "Tag": "04.09.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "14:00"
+    },
+    "619": {
+        "Fach": "Stochastik und Schiffsdynamik (Modul)/ Schiffsdynamik/ Statistik und Stochastik in der Schiffs- und Meerestechnik",
+        "Tag": "19.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "620": {
+        "Fach": "Stochastische Prozesse (Modul)",
+        "Tag": "06.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "14:00"
+    },
+    "621": {
+        "Fach": "Strahltriebwerke",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "622": {
+        "Fach": "Strahlung und Optik",
+        "Tag": "31.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "09:00"
+    },
+    "623": {
+        "Fach": "Strategien und Instrumente des Online Marketing",
+        "Tag": "22.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "624": {
+        "Fach": "Strategisches Consulting & Management des Wandels (Modul)",
+        "Tag": "30.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "625": {
+        "Fach": "Strategisches Management (Modul)",
+        "Tag": "18.09.2017",
+        "Ort/Raum": "TUHH, SBS 93 (Geb. A), Raum A1.15.1/2",
+        "Zeit": "10:30"
+    },
+    "626": {
+        "Fach": "Strategisches Produktions- und Logistikmanagement",
+        "Tag": "",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "627": {
+        "Fach": "Str\u00f6mungsmaschinen (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "628": {
+        "Fach": "Str\u00f6mungsmechanik (Modul)",
+        "Tag": "10.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg(Prof. Rung)",
+        "Zeit": "09:00"
+    },
+    "629": {
+        "Fach": "Str\u00f6mungsmechanik I",
+        "Tag": "11.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I= zeitgleich mit Grundlagen der Str\u00f6mungsmechanik",
+        "Zeit": "15:00"
+    },
+    "630": {
+        "Fach": "Str\u00f6mungsmechanik II",
+        "Tag": "20.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "631": {
+        "Fach": "Str\u00f6mungsmechanik f\u00fcr Schiffbauingenieure (Modul)",
+        "Tag": "10.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg",
+        "Zeit": "09:00"
+    },
+    "632": {
+        "Fach": "Str\u00f6mungsmechanik in der Verfahrenstechnik (Modul)/Str\u00f6mungsmechanik II",
+        "Tag": "20.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "633": {
+        "Fach": "Str\u00f6mungsmechanik und Meeresenergie (Modul)/Energie aus dem Meer/Str\u00f6mungsmechanik II",
+        "Tag": "20.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "634": {
+        "Fach": "Stromerzeugung aus Wind- und Wasserkraft (Modul)/ Wasserkraftnutzung/Windenergieanlagen/ Windenergienutzung - Schwerpunkt Offshore",
+        "Tag": "11.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "08:00"
+    },
+    "635": {
+        "Fach": "Strukturanalyse von Schiffen und meerestechnischen Konstruktionen (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "636": {
+        "Fach": "Strukturwerkstoffe (Modul)/ Grundlagen der mechanischen Eigenschaften von Werkstoffen/ Schwei\u00dftechnik",
+        "Tag": "09.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506= Schwei\u00dftechnik 28.08.2017",
+        "Zeit": "09:00"
+    },
+    "637": {
+        "Fach": "Supply Chain Management (Modul) (SCM)/Wertsch\u00f6pfungsnetzwerke",
+        "Tag": "09.08.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "09:00"
+    },
+    "638": {
+        "Fach": "Synthese und Auslegung industrieller Anlagen (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "639": {
+        "Fach": "Systemanalyse im Lufttransport",
+        "Tag": "22.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007= ehemals Methoden der Technologiebewertung/Technologiebewertung in der Luftfahrt",
+        "Zeit": "09:00"
+    },
+    "640": {
+        "Fach": "Systemaspekte regenerativer Energien (Modul)/Brennstoffzellen, Batterien und Gaspeicher: Neue Materialien f\u00fcr die Energieerzeugung und -speicherung/Energiehandel und Energiem\u00e4rkte/Tiefe Geothermie",
+        "Tag": "04.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "641": {
+        "Fach": "Systems Engineering (Modul)",
+        "Tag": "25.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "642": {
+        "Fach": "Systemsimulation",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "643": {
+        "Fach": "Systemtechnisches Entwicklungsprojekt I",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "644": {
+        "Fach": "Systemtheorie und Planungsanalyse (Modul)/Systemtheorie und -analyse",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "11:30"
+    },
+    "645": {
+        "Fach": "Systemverfahrenstechnik und Transportprozesse (Modul)/Mehrphasenstr\u00f6mungen/Systemverfahrenstechnik/W\u00e4rme- und Stofftransport in der Verfahrenstechnik",
+        "Tag": "",
+        "Ort/Raum": "n\u00e4here Informationen \u00fcber Institut/Pr\u00fcferSystemverfahrenstechnik 17.08.2017 zeitgleich mit Prozess- und Anlagentechnik II/Mehrphasenstr\u00f6mungen und W\u00e4rme- und Stofftransport in der Verfahrenstechnik m\u00fcndliche Pr\u00fcfungen nach Vereinbarung",
+        "Zeit": ""
+    },
+    "646": {
+        "Fach": "Teamprojekt MB (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach VereinbarungNachweis nur im Wintesemester",
+        "Zeit": ""
+    },
+    "647": {
+        "Fach": "Technik und Str\u00f6mungsmechanik von Segelschiffen",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "648": {
+        "Fach": "Technik von U-Booten",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "649": {
+        "Fach": "Technik von \u00dcberwassermarinefahrzeugen",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "650": {
+        "Fach": "Technische Akustik I (Modul)",
+        "Tag": "04.08.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "11:00"
+    },
+    "651": {
+        "Fach": "Technische Akustik II (Modul)",
+        "Tag": "",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "652": {
+        "Fach": "Technische Anwendungen der Partikeltechnologie",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "653": {
+        "Fach": "Technische Biokatalyse / Biokatalyse und Enzymtechnologie",
+        "Tag": "13.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "654": {
+        "Fach": "Technische Dynamik: Numerische und experimentelle Methoden (Modul)",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "09:00"
+    },
+    "655": {
+        "Fach": "Technische Informatik (Modul)",
+        "Tag": "27.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "656": {
+        "Fach": "Technische Logistik (Modul)",
+        "Tag": "18.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I= ehemals Lager- und Kommissioniertechnik",
+        "Zeit": "09:00"
+    },
+    "657": {
+        "Fach": "Technische Logistik Labor",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "658": {
+        "Fach": "Technische Mechanik I",
+        "Tag": "09.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "659": {
+        "Fach": "Technische Mechanik I (Modul)",
+        "Tag": "09.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg= zeit- und raumgleich mit Technische Mechanik I (alte Kohorten)",
+        "Zeit": "09:00"
+    },
+    "660": {
+        "Fach": "Technische Mechanik II",
+        "Tag": "09.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "11:30"
+    },
+    "661": {
+        "Fach": "Technische Mechanik II (Modul)",
+        "Tag": "09.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg= zeitgleich mit Technische Mechanik III (alte Kohorte) Pr\u00fcfungsraum wird noch bekannt gegeben",
+        "Zeit": "11:30"
+    },
+    "662": {
+        "Fach": "Technische Mikrobiologie (Modul)/Angewandte Molekularbiologie/Technische Mikrobiologie",
+        "Tag": "21.07.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "663": {
+        "Fach": "Technische Mikrobiologie / Aktuelle Entwicklungen der angewandten Mikrobiologie",
+        "Tag": "21.07.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "664": {
+        "Fach": "Technische Schwingungslehre (Modul)",
+        "Tag": "25.07.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "09:00"
+    },
+    "665": {
+        "Fach": "Technische Schwingungslehre GES (Modul)",
+        "Tag": "31.07.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "666": {
+        "Fach": "Technische Thermodynamik I (Modul)",
+        "Tag": "25.09.2017",
+        "Ort/Raum": "Sporthalle HH, Krochmannstr. 55, 22297 Hamburg",
+        "Zeit": "14:00"
+    },
+    "667": {
+        "Fach": "Technische Thermodynamik II (Modul)",
+        "Tag": "15.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg",
+        "Zeit": "09:00"
+    },
+    "668": {
+        "Fach": "Technologie der Luftreinhaltung",
+        "Tag": "01.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "14:00"
+    },
+    "669": {
+        "Fach": "Technologie keramischer Werkstoffe",
+        "Tag": "19.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "14:00"
+    },
+    "670": {
+        "Fach": "Technologiemanagement (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "671": {
+        "Fach": "Technologiemanagement / Seminar zum Technologiemanagement",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "672": {
+        "Fach": "Theoretische Elektrotechnik I: Zeitunabh\u00e4ngige Felder (Modul)",
+        "Tag": "14.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I= ehemals Theoretische Elektrotechnik I",
+        "Zeit": "09:00"
+    },
+    "673": {
+        "Fach": "Theoretische Elektrotechnik II: Zeitabh\u00e4ngige Felder (Modul)",
+        "Tag": "31.08.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "674": {
+        "Fach": "Theorie und Entwurf regelungstechnischer Systeme (Modul)",
+        "Tag": "20.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I= ehemals Regelungstechnik II",
+        "Zeit": "09:00"
+    },
+    "675": {
+        "Fach": "Theorie und Praxis der Messtechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "676": {
+        "Fach": "Thermische Abfallbehandlung",
+        "Tag": "04.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "677": {
+        "Fach": "Thermische Grundoperationen (Modul)",
+        "Tag": "24.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "678": {
+        "Fach": "Thermodynamik I",
+        "Tag": "25.09.2017",
+        "Ort/Raum": "Sporthalle HH, Krochmannstr. 55, 22297 Hamburg",
+        "Zeit": "14:00"
+    },
+    "679": {
+        "Fach": "Thermodynamik II",
+        "Tag": "15.08.2017",
+        "Ort/Raum": "Feuervogel - Sporthalle Harburg, Maretstr. 50, 21073 Hamburg",
+        "Zeit": "09:00"
+    },
+    "680": {
+        "Fach": "Thermodynamik III",
+        "Tag": "05.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "681": {
+        "Fach": "Thermodynamik f\u00fcr Gewerbelehrer",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "682": {
+        "Fach": "Traffic Engineering (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "683": {
+        "Fach": "Transport- und Umschlagtechnik (Modul)",
+        "Tag": "22.08.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "09:00"
+    },
+    "684": {
+        "Fach": "Transportprozesse (Modul)/Mehrphasenstr\u00f6mungen/W\u00e4rme- und Stofftransport in der Verfahrenstechnik",
+        "Tag": "26.07.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "685": {
+        "Fach": "Trenntechnik",
+        "Tag": "01.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "686": {
+        "Fach": "Trenntechnik in der Life Sciences (Modul)/Chromatographische Trennverfahren/Verfahrenstechnische Grundoperationen f\u00fcr biorelevante Systeme",
+        "Tag": "28.07.2017",
+        "Ort/Raum": "TUHH, SBC 2(Geb D), Raum 2.022",
+        "Zeit": "09:00"
+    },
+    "687": {
+        "Fach": "Turbinen und Turboverdichter",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "688": {
+        "Fach": "Turbulente Str\u00f6mungen",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "689": {
+        "Fach": "Umform- und Zerspantechnologie",
+        "Tag": "26.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "690": {
+        "Fach": "Umformtechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "691": {
+        "Fach": "Umweltanalytik",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "692": {
+        "Fach": "Umweltanalytik und wassertechnisches Praktikum (Modul)",
+        "Tag": "17.07.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "693": {
+        "Fach": "Umweltaspekte des Luftverkehrs",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "694": {
+        "Fach": "Umweltbewertung (Modul)",
+        "Tag": "04.08.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "08:00"
+    },
+    "695": {
+        "Fach": "Umweltbewertung und Umwelttechnik (Modul)/Umweltbewertung/Umwelttechnik",
+        "Tag": "04.08.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "08:00"
+    },
+    "696": {
+        "Fach": "Umweltmesstechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "697": {
+        "Fach": "Umweltrecht",
+        "Tag": "18.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "698": {
+        "Fach": "Umweltschutz und -management (Modul)/Integrierter Umweltschutz/Sicherheits-, Gesundheits- und Umweltmanagement",
+        "Tag": "31.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "699": {
+        "Fach": "Umweltschutz und Nachhaltigkeit",
+        "Tag": "",
+        "Ort/Raum": "nach VereinbarungPosterpr\u00e4sentation",
+        "Zeit": ""
+    },
+    "700": {
+        "Fach": "Umwelttechnik (Modul)",
+        "Tag": "04.08.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax IIGemeinsamer Termin mit Modul: Umweltbewertung und Umwelttechnik",
+        "Zeit": "08:00"
+    },
+    "701": {
+        "Fach": "Unternehmensberatung",
+        "Tag": "09.08.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax IIPlanung durch den Pr\u00fcfer",
+        "Zeit": "14:00"
+    },
+    "702": {
+        "Fach": "Unternehmensf\u00fchrung (Modul)/Grundlagen der Unternehmensf\u00fchrung/Finanzierung und Rechnungswesen",
+        "Tag": "01.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "14:00"
+    },
+    "703": {
+        "Fach": "Unternehmenslogistik und SCM / Wertsch\u00f6pfungsnetzwerke",
+        "Tag": "09.08.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "09:00"
+    },
+    "704": {
+        "Fach": "Verarbeitung von Kunststoffen und Verbundwerkstoffen",
+        "Tag": "14.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "14:00"
+    },
+    "705": {
+        "Fach": "Verbrennungsmotoren I",
+        "Tag": "15.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "706": {
+        "Fach": "Verbrennungsmotoren II",
+        "Tag": "15.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "11:30"
+    },
+    "707": {
+        "Fach": "Verbundbau",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "708": {
+        "Fach": "Verfahrenstechnik zur Herstellung von Werkstoffen (Modul)/ Technologie keramischer Werkstoffe/ Verarbeitung von Kunststoffen und Verbundwerkstoffen",
+        "Tag": "14.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "14:00"
+    },
+    "709": {
+        "Fach": "Verfahrenstechnische Grundoperationen f\u00fcr biorelevante Systeme / Chromatographische Trennverfahren",
+        "Tag": "28.07.2017",
+        "Ort/Raum": "TUHH, SBC 2(Geb D), Raum 2.022",
+        "Zeit": "09:00"
+    },
+    "710": {
+        "Fach": "Verkehrsmanagement",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "711": {
+        "Fach": "Verkehrsmodellierung (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "712": {
+        "Fach": "Verkehrsplanung und Verkehrstechnik (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "713": {
+        "Fach": "Verkehrswirtschaft (Modul)",
+        "Tag": "15.08.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "14:00"
+    },
+    "714": {
+        "Fach": "Verteilte Algorithmen (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "715": {
+        "Fach": "Verteilte Systeme (Modul)",
+        "Tag": "28.07.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "12:00"
+    },
+    "716": {
+        "Fach": "Vertiefte Konstruktionslehre (Modul)/Vertiefte Konstruktionslehre I und II",
+        "Tag": "03.08.2017",
+        "Ort/Raum": "\u00a0",
+        "Zeit": ""
+    },
+    "717": {
+        "Fach": "Volkswirtschaftslehre und Au\u00dfenwirtschaftslehre (Modul)/Au\u00dfenwirtschaftslehre/Konzepte der Volkswirtschaftstheorie und -politik",
+        "Tag": "24.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I= Economics/International Economics",
+        "Zeit": "09:00"
+    },
+    "718": {
+        "Fach": "W\u00e4rme- und Stoff\u00fcbertragung (Modul)",
+        "Tag": "08.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "719": {
+        "Fach": "W\u00e4rme- und Stoff\u00fcbertragung II",
+        "Tag": "26.07.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506= zeitgleich mit Transportprozesse",
+        "Zeit": "09:00"
+    },
+    "720": {
+        "Fach": "W\u00e4rmekraftwerke (Modul)",
+        "Tag": "18.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "721": {
+        "Fach": "W\u00e4rmestrahlung und W\u00e4rme\u00fcbertragung",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "722": {
+        "Fach": "W\u00e4rmetechnik (Modul)",
+        "Tag": "12.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506",
+        "Zeit": "09:00"
+    },
+    "723": {
+        "Fach": "W\u00e4rme\u00fcbertragung (Modul)",
+        "Tag": "26.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "724": {
+        "Fach": "Wasser, Boden, Nahrung und Energie im globalen Kontext (Modul)/Entwurf von \u00f6kologischen D\u00f6rfern - Wasser, Energie, Boden und Nahrungsmittelnexus/Wasser- & Abwassersysteme im globalen Kontext",
+        "Tag": "",
+        "Ort/Raum": "nach VereinbarungSchriftliche Ausarbeitung",
+        "Zeit": ""
+    },
+    "725": {
+        "Fach": "Wasserbau I (Modul)",
+        "Tag": "18.09.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "09:00"
+    },
+    "726": {
+        "Fach": "Wasserbau II (Modul)/Hydraulik/Wasserbau",
+        "Tag": "30.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I= Pr\u00fcfung Wasserbau - alte Kohorten",
+        "Zeit": "09:00"
+    },
+    "727": {
+        "Fach": "Wasserressourcen und -versorgung (Modul)/Chemie der Trinkwasseraufbereitung/Wasserressourcenmanagement",
+        "Tag": "17.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "728": {
+        "Fach": "Wasserressourcenmanagement",
+        "Tag": "17.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "729": {
+        "Fach": "Wasserstofftechnologie",
+        "Tag": "23.08.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007",
+        "Zeit": "09:00"
+    },
+    "730": {
+        "Fach": "Wasserversorgung und Stadtentw\u00e4sserung",
+        "Tag": "04.09.2017",
+        "Ort/Raum": "TUHH, ES 40 (Geb. N), Raum N0.007= zeitgleich mit Siedlungswasserwirtschaft /anderer Pr\u00fcfungsraum",
+        "Zeit": "14:00"
+    },
+    "731": {
+        "Fach": "Wasserwirtschaft (Modul)/Wasserwirtschaft und Gew\u00e4sserg\u00fcte/Grundwasserhydrologie",
+        "Tag": "19.09.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "732": {
+        "Fach": "Weiterf\u00fchrende Konzepte der drahtlosen Kommunikation (Modul)",
+        "Tag": "31.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I= ehemals Mobilkommunikation",
+        "Zeit": "09:00"
+    },
+    "733": {
+        "Fach": "Werkstoffe der Elektrotechnik (Modul)/Demonstration elektrotechnischer Experimente/Werkstoffe der Elektrotechnik",
+        "Tag": "11.09.2017",
+        "Ort/Raum": "TUHH, DE 22 (Geb. I), Audimax II",
+        "Zeit": "14:00"
+    },
+    "734": {
+        "Fach": "Werkstoffe der Mikroelektronik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "735": {
+        "Fach": "Werkstoffe f\u00fcr energietechnische Anlagen (Modul)/Baustoffe, Bausch\u00e4den und Instandsetzung/Konstruieren mit Kunststoffen und Verbundwerkstoffen",
+        "Tag": "18.09.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506= ehemals Werkstoffe (Wahlpflichtmodul IIa im Studiengang Regenerative Energien)",
+        "Zeit": "09:00"
+    },
+    "736": {
+        "Fach": "Werkstoffmodellierung (Modul)",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "737": {
+        "Fach": "Werkstoffpr\u00fcfung (GTW)",
+        "Tag": "19.07.2017",
+        "Ort/Raum": "TUHH, DE 15 (Geb. K), Raum K0.506Planung durch den Pr\u00fcfer",
+        "Zeit": "11:00"
+    },
+    "738": {
+        "Fach": "Widerstand und Propulsion (Modul)",
+        "Tag": "14.09.2017",
+        "Ort/Raum": "TUHH, SBC5 (Geb. H), Raum 0.16",
+        "Zeit": "09:00"
+    },
+    "739": {
+        "Fach": "Windenergieanlagen",
+        "Tag": "11.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax IPlanung durch den Pr\u00fcfer - Zusammen mit Modul Stromerzeugung aus Wind- und Wasserkraft",
+        "Zeit": "08:00"
+    },
+    "740": {
+        "Fach": "Wirtschaftsprivatrecht",
+        "Tag": "18.08.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "17:00"
+    },
+    "741": {
+        "Fach": "Zell- und Gewebekultur (Modul)/Grundlagen von Zell- und Gewebekulturtechnik/Medizinische Bioverfahrentechnik",
+        "Tag": "",
+        "Ort/Raum": "nach Vereinbarung",
+        "Zeit": ""
+    },
+    "742": {
+        "Fach": "Zuverl\u00e4ssigkeit in der Maschinendynamik",
+        "Tag": "28.07.2017",
+        "Ort/Raum": "TUHH, SBC 5 (Geb. H), Audimax I",
+        "Zeit": "09:00"
+    },
+    "743": {
+        "Fach": "Zuverl\u00e4ssigkeit von Flugzeugsystemen",
+        "Tag": "27.07.2017",
+        "Ort/Raum": "TUHH, SBC 1  (Geb. A) , Raum A 1.15 1/2",
+        "Zeit": "09:00"
+    }
+}
